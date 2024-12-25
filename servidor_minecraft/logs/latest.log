@@ -4487,3 +4487,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 06:20:59.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
 [25Dec2024 06:20:59.347] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
 [25Dec2024 06:20:59.357] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[25Dec2024 06:22:11.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Derrick'/86183, l='ServerLevel[world]', x=653.49, y=85.00, z=-684.32] died, message: 'Derrick was slain by IAN9IRV018'
+[25Dec2024 06:22:11.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Derrick'/86183, l='ServerLevel[world]', x=653.49, y=85.00, z=-684.32] died: Derrick was slain by IAN9IRV018
+[25Dec2024 06:22:12.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Zachariah'/86184, l='ServerLevel[world]', x=663.48, y=85.17, z=-688.28] died, message: 'Zachariah faded away from this dimension'
+[25Dec2024 06:22:12.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Zachariah'/86184, l='ServerLevel[world]', x=663.48, y=85.17, z=-688.28] died: Zachariah faded away from this dimension
+[25Dec2024 06:22:41.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[25Dec2024 06:22:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[25Dec2024 06:22:41.756] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[25Dec2024 06:24:59.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [27, -7], pos: MutableBlockPos{x=432, y=94, z=-111}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 06:24:59.567] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [26, -7], pos: MutableBlockPos{x=429, y=94, z=-111}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[25Dec2024 06:27:28.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.4576373633313331
+[25Dec2024 06:27:28.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.8190838486310881
+[25Dec2024 06:27:28.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.1733014111188922
+[25Dec2024 06:27:28.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.360598119754581
+[25Dec2024 06:27:28.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.360598119754581
