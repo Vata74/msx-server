@@ -5478,6 +5478,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-12-25 02:59:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
