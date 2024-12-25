@@ -3994,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-25 05:19:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-25 03:36:04 +0000"
@@ -10514,6 +10520,12 @@
   "stoneworks:recipes/stoneworks.main/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-25 05:19:24 +0000"
     },
     "done": true
   },
