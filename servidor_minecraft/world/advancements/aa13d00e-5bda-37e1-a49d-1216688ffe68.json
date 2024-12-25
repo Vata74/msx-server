@@ -5880,6 +5880,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-25 06:13:32 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
@@ -7431,6 +7437,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 06:13:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 03:45:07 +0000"
@@ -8936,6 +8948,12 @@
   "upgradednetherite:recipes/essences/wither_essence": {
     "criteria": {
       "has_ghast_tear": "2024-12-23 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-25 06:13:32 +0000"
     },
     "done": true
   },

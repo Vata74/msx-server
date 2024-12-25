@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-25 06:05:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-22 20:11:23 +0000"
@@ -6629,18 +6635,22 @@
       "byg:orchard": "2024-12-24 00:41:16 +0000",
       "byg:red_oak_forest": "2024-12-22 00:18:35 +0000",
       "byg:autumnal_forest": "2024-12-22 04:27:16 +0000",
+      "byg:rose_fields": "2024-12-25 06:15:12 +0000",
       "byg:cika_woods": "2024-12-22 01:05:15 +0000",
       "byg:embur_bog": "2024-12-22 22:25:42 +0000",
       "byg:zelkova_forest": "2024-12-22 01:05:28 +0000",
       "byg:dacite_ridges": "2024-12-21 22:49:47 +0000",
       "byg:autumnal_valley": "2024-12-22 01:03:02 +0000",
+      "byg:shattered_glacier": "2024-12-25 06:10:36 +0000",
       "byg:aspen_forest": "2024-12-24 00:40:38 +0000",
       "byg:skyris_vale": "2024-12-22 23:45:45 +0000",
       "byg:cardinal_tundra": "2024-12-22 00:38:25 +0000",
+      "byg:amaranth_fields": "2024-12-25 06:19:05 +0000",
       "byg:basalt_barrera": "2024-12-22 22:09:24 +0000",
       "byg:temperate_rainforest": "2024-12-22 22:08:09 +0000",
       "byg:maple_taiga": "2024-12-22 01:04:43 +0000",
       "byg:frosted_coniferous_forest": "2024-12-22 00:39:03 +0000",
+      "byg:dacite_shore": "2024-12-25 06:10:41 +0000",
       "byg:frosted_taiga": "2024-12-22 00:40:55 +0000"
     },
     "done": false
@@ -7984,6 +7994,7 @@
       "minecraft:birch_forest": "2024-12-21 22:53:52 +0000",
       "minecraft:beach": "2024-12-22 07:18:38 +0000",
       "minecraft:dark_forest": "2024-12-21 22:45:53 +0000",
+      "minecraft:sparse_jungle": "2024-12-25 06:18:14 +0000",
       "minecraft:river": "2024-12-21 22:53:48 +0000",
       "minecraft:snowy_plains": "2024-12-22 00:40:15 +0000",
       "minecraft:stony_shore": "2024-12-22 05:34:32 +0000",
@@ -7998,6 +8009,7 @@
       "minecraft:frozen_ocean": "2024-12-22 20:21:48 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-22 22:36:36 +0000",
       "minecraft:ocean": "2024-12-22 07:12:42 +0000",
+      "minecraft:jungle": "2024-12-25 06:17:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-22 04:28:18 +0000",
       "minecraft:snowy_beach": "2024-12-22 00:59:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 00:30:10 +0000",

@@ -3949,7 +3949,8 @@
       "minecraft:stray": "2024-12-21 05:18:33 +0000",
       "minecraft:zombie": "2024-12-21 05:05:07 +0000",
       "minecraft:drowned": "2024-12-24 01:45:06 +0000",
-      "minecraft:zombie_villager": "2024-12-24 04:14:25 +0000"
+      "minecraft:zombie_villager": "2024-12-24 04:14:25 +0000",
+      "savage_and_ravage:skeleton_villager": "2024-12-25 06:18:19 +0000"
     },
     "done": false
   },
@@ -4551,6 +4552,7 @@
       "minecraft:stony_shore": "2024-12-21 05:17:55 +0000",
       "minecraft:snowy_plains": "2024-12-22 04:17:55 +0000",
       "minecraft:snowy_taiga": "2024-12-21 05:18:06 +0000",
+      "minecraft:dripstone_caves": "2024-12-25 06:14:24 +0000",
       "minecraft:grove": "2024-12-21 05:18:23 +0000",
       "environmental:blossom_woods": "2024-12-22 03:16:50 +0000",
       "minecraft:cold_ocean": "2024-12-21 05:21:37 +0000",
