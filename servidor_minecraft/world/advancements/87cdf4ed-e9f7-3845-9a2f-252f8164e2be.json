@@ -620,6 +620,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-25 05:01:25 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_bench": {
     "criteria": {
       "has_planks": "2024-12-24 03:01:14 +0000"
@@ -1760,6 +1766,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-25 05:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:21:03 +0000"
@@ -1847,6 +1859,12 @@
   "delightful:recipes/food/cooking/glow_jelly_bottle": {
     "criteria": {
       "has_glow_berries": "2024-12-24 06:45:06 +0000"
+    },
+    "done": true
+  },
+  "savage_and_ravage:adventure/mask_of_dishonesty": {
+    "criteria": {
+      "mask_of_dishonesty": "2024-12-25 05:06:18 +0000"
     },
     "done": true
   },

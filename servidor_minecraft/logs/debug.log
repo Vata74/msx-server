@@ -17711,3 +17711,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 05:01:04.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 05:01:08.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
 [25Dec2024 05:01:18.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_1
+[25Dec2024 05:02:36.622] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[25Dec2024 05:02:37.412] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[25Dec2024 05:02:38.086] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[25Dec2024 05:02:38.781] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[25Dec2024 05:02:39.477] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[25Dec2024 05:02:50.598] [Server thread/DEBUG] [mixin/]: Mixing RecipebookMixin from recipeessentials.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[25Dec2024 05:03:37.979] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/18325, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 05:03:38.978] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/18382, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:03:40.980] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/18474, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 05:03:41.979] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/18516, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 05:04:20.072] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Dec2024 05:06:04.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:06:04.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:06:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has reached the goal [A Little Tricking]
+[25Dec2024 05:06:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [A Little Tricking]
+[25Dec2024 05:07:40.022] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Dec2024 05:08:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> dios?
+[25Dec2024 05:08:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IAN9IRV018> hijo mio
+[25Dec2024 05:10:16.575] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23211, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:10:17.577] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23255, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 05:10:19.579] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23339, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:10:20.580] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23379, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:10:59.972] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Dec2024 05:10:59.972] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Dec2024 05:11:04.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:11:04.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
