@@ -2959,6 +2959,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-25 07:01:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-22 20:11:34 +0000"
@@ -7666,6 +7672,12 @@
       "has_granite": "2024-12-22 23:50:17 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "birch_beehive": "2024-12-25 06:59:45 +0000"
+    },
+    "done": false
   },
   "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {

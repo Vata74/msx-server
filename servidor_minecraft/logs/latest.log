@@ -4523,3 +4523,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 06:48:46.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
 [25Dec2024 06:48:46.587] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
 [25Dec2024 06:48:46.599] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[25Dec2024 07:01:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Enchanter]

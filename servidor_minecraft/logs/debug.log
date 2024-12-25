@@ -19906,3 +19906,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 06:52:20.826] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/108837, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
 [25Dec2024 06:52:21.827] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/108877, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3264.50, removed=DISCARDED].
 [25Dec2024 06:52:23.826] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/108958, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 06:54:20.622] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Dec2024 06:55:16.726] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/110777, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 06:55:17.728] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/110810, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 06:55:19.726] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/110885, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 06:55:20.726] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/110937, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 06:56:34.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 06:56:35.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 06:57:40.522] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Dec2024 06:59:05.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[25Dec2024 06:59:05.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[25Dec2024 07:01:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Enchanter]
+[25Dec2024 07:01:18.872] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Dec2024 07:01:18.872] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Dec2024 07:01:34.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 07:01:35.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
