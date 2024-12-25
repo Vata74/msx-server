@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 01:10:30 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
@@ -284,6 +302,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_slab_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_bricks": "2024-12-25 03:37:21 +0000"
     },
     "done": true
   },
@@ -467,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -509,6 +539,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_slab_from_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sandstone": "2024-12-25 03:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-23 00:00:29 +0000"
@@ -530,6 +566,12 @@
   "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -572,6 +614,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-21 04:56:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_shingles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -713,6 +761,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 20:49:26 +0000"
@@ -722,6 +776,12 @@
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -881,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/witch_hat": {
     "criteria": {
       "wear_hat": "2024-12-22 03:33:47 +0000"
@@ -1025,6 +1091,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
@@ -1085,6 +1157,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_shingle_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -1118,6 +1196,12 @@
   "stoneworks:recipes/stoneworks.main/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/end_stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -1224,6 +1308,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -1239,6 +1329,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -1290,6 +1386,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2024-12-22 07:09:32 +0000"
@@ -1302,9 +1404,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_plates_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "interact": "2024-12-23 23:08:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_paver_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -1374,6 +1488,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_paver_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
@@ -1402,6 +1522,12 @@
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -1492,6 +1618,12 @@
   "woodworks:recipes/decorations/warped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -1597,6 +1729,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
@@ -1618,6 +1756,12 @@
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_plate_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -1654,6 +1798,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -1702,6 +1852,12 @@
   "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -1933,6 +2089,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_paver_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:15:17 +0000"
@@ -2062,6 +2224,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-24 17:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -2234,6 +2402,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2024-12-22 20:52:17 +0000"
@@ -2243,6 +2417,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -2366,6 +2546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-23 03:10:42 +0000"
@@ -2387,6 +2573,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -2483,6 +2675,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-21 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_shingles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -2618,6 +2816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_gloves": "2024-12-21 23:28:32 +0000"
@@ -2669,6 +2873,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_pavers_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -3081,6 +3291,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_paver_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/fd/quark/blossom_cabinet": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
@@ -3138,6 +3354,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_shingle_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -3306,6 +3528,12 @@
   "woodworks:recipes/decorations/birch_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_shingle_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -3508,6 +3736,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_tile_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_block": {
     "criteria": {
       "has_allurite_shard": "2024-12-22 04:43:01 +0000"
@@ -3550,6 +3784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -3559,6 +3799,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/chiseled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -3580,6 +3826,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-22 04:38:47 +0000"
@@ -3598,6 +3856,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/end_stone_brick": {
+    "criteria": {
+      "has_the_recipe": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/cherry_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -3607,6 +3871,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_pavers_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -3694,6 +3964,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_tile_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/aspen_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 05:52:06 +0000"
@@ -3730,6 +4012,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cracked_end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-21 22:51:48 +0000"
@@ -3763,6 +4051,12 @@
   "everycomp:recipes/everycomp/db/quark/blossom_support": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -3838,6 +4132,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_plate_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pink_sheet_single": {
     "criteria": {
       "has_sheet": "2024-12-24 16:20:11 +0000"
@@ -3859,6 +4159,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -3931,6 +4237,12 @@
   "twigs:recipes/tuff/tuff_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -4111,6 +4423,18 @@
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_shingle_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -4366,6 +4690,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
     "criteria": {
       "has_item": "2024-12-22 00:45:49 +0000"
@@ -4375,6 +4705,12 @@
   "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -4510,6 +4846,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_shingle_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-21 03:25:03 +0000"
@@ -4567,6 +4915,12 @@
   "galosphere:recipes/galosphere/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -4696,6 +5050,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_paver_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2024-12-21 02:32:02 +0000"
@@ -4717,6 +5077,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -4876,6 +5242,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/salmonberry_pips": {
     "criteria": {
       "has_salmonberries": "2024-12-21 02:27:46 +0000"
@@ -4911,6 +5283,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_tile_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -5004,6 +5382,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_paver_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -5070,9 +5454,21 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -5085,6 +5481,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_shingle_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -5172,6 +5574,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_shingle_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -5181,6 +5589,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -5277,6 +5691,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -5406,6 +5826,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/cherry_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
@@ -5415,6 +5841,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-12-23 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_paver_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -5451,6 +5883,12 @@
   "stoneworks:recipes/stoneworks.main/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -5595,6 +6033,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -5616,6 +6060,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -5646,6 +6096,18 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -5895,6 +6357,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cracked_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 06:10:37 +0000"
@@ -6117,6 +6585,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -6207,6 +6681,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_stem": {
     "criteria": {
       "has_oak_log": "2024-12-21 02:15:12 +0000"
@@ -6291,6 +6771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/backpack": {
     "criteria": {
       "has_hide": "2024-12-22 00:44:17 +0000"
@@ -6300,6 +6786,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -6333,6 +6825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:57 +0000"
@@ -6348,6 +6846,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -6462,6 +6966,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -6603,6 +7113,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
@@ -6645,6 +7161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:38:47 +0000"
@@ -6654,6 +7176,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -6723,9 +7251,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -6747,9 +7287,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tw/quark/blossom_table": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -6868,6 +7420,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2024-12-22 03:29:45 +0000"
@@ -6889,6 +7447,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -6919,6 +7483,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_stairs_from_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sandstone": "2024-12-25 03:39:31 +0000"
     },
     "done": true
   },
@@ -6988,6 +7558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-21 04:50:13 +0000"
@@ -7054,6 +7630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_lamp": {
     "criteria": {
       "has_wool": "2024-12-21 04:43:34 +0000"
@@ -7081,6 +7663,12 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_trophy": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -7312,6 +7900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -7390,6 +7984,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_shingle_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -7399,6 +7999,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_paver_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -7477,6 +8083,12 @@
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-12-21 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-25 03:45:48 +0000"
     },
     "done": true
   },
@@ -7573,6 +8185,12 @@
   "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_plate_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -7696,6 +8314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
@@ -7750,6 +8374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
       "has_plank": "2024-12-22 01:04:59 +0000"
@@ -7759,6 +8389,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -7789,6 +8425,12 @@
   "handcrafted:recipes/misc/yellow_plate": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -7843,6 +8485,12 @@
   "backpacked:recipes/backpacked/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -8033,6 +8681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_trophy": "2024-12-24 16:20:27 +0000"
@@ -8054,6 +8708,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -8192,6 +8852,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -8411,6 +9077,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_plate_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/lattice": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -8426,6 +9098,12 @@
   "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -8507,6 +9185,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
       "has_diamond_sword": "2024-12-23 00:52:26 +0000"
@@ -8516,6 +9200,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -8532,6 +9222,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -8541,6 +9237,12 @@
   "galosphere:recipes/galosphere/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/end_stone_shingle_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -8583,6 +9285,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_plate_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -8640,6 +9348,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2024-12-22 03:35:44 +0000"
@@ -8649,6 +9369,18 @@
   "stoneworks:recipes/stoneworks.main/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_paver_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -8706,6 +9438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-25 03:36:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/spruce_boards": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
@@ -8731,6 +9469,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_door_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 01:10:30 +0000"
@@ -8740,6 +9484,12 @@
   "windswept:recipes/building_blocks/packed_ice_from_packed_ice_bricks_stonecutting": {
     "criteria": {
       "has_packed_ice": "2024-12-25 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_sandstone_wall_from_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sandstone": "2024-12-25 03:39:31 +0000"
     },
     "done": true
   },
@@ -8788,6 +9538,12 @@
   "everycomp:recipes/everycomp/tf/quark/blossom_banister": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -8917,6 +9673,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_stairs_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_bricks": "2024-12-25 03:37:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_gold_block": "2024-12-24 05:26:13 +0000"
@@ -8926,6 +9688,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -8962,6 +9730,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -9019,6 +9793,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2024-12-21 01:49:32 +0000"
@@ -9037,6 +9817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-21 01:48:14 +0000"
@@ -9046,6 +9832,12 @@
   "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
     "criteria": {
       "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -9169,6 +9961,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_brick_wall_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_bricks": "2024-12-25 03:37:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -9286,6 +10090,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-21 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -9531,6 +10341,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2024-12-21 04:45:48 +0000"
@@ -9558,6 +10374,18 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
@@ -9608,6 +10436,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_plates_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -9779,6 +10613,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_plate_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -9904,6 +10744,7 @@
       "cooked_chicken": "2024-12-22 20:24:48 +0000",
       "mushroom_stew": "2024-12-24 07:04:24 +0000",
       "cooked_mutton": "2024-12-22 20:25:28 +0000",
+      "apple": "2024-12-25 03:52:46 +0000",
       "golden_carrot": "2024-12-22 21:12:24 +0000",
       "neapolitan:banana": "2024-12-21 03:22:54 +0000",
       "bread": "2024-12-21 23:02:50 +0000",
@@ -10009,6 +10850,12 @@
   "clayworks:recipes/building_blocks/smooth_stone_from_baking": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_plate_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -10150,6 +10997,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/blackstone_plate_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
@@ -10198,6 +11051,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-22 03:36:54 +0000"
@@ -10219,6 +11078,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -10348,6 +11213,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/melon_slice": {
     "criteria": {
       "has_mini_melon": "2024-12-21 04:54:51 +0000"
@@ -10447,6 +11318,18 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_trophy": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
     },
     "done": true
   },
@@ -10642,6 +11525,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2024-12-21 21:57:20 +0000"
@@ -10699,6 +11588,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-22 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/sandstone_plate_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-25 03:35:23 +0000"
     },
     "done": true
   },
@@ -10846,6 +11741,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/end_stone_tile_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2024-12-21 21:57:20 +0000"
@@ -10888,9 +11789,21 @@
     },
     "done": false
   },
+  "stoneworks:recipes/stoneworks.main/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-22 01:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
   },
