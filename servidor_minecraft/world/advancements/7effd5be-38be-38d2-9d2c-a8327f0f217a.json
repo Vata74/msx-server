@@ -1261,6 +1261,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-24 21:50:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-23 22:00:29 +0000"
@@ -7393,6 +7399,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-23 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2024-12-24 21:49:43 +0000"
     },
     "done": true
   },

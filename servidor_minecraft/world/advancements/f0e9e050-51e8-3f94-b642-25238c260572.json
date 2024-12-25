@@ -1430,6 +1430,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 20:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:36:22 +0000"
@@ -2552,6 +2558,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 20:14:58 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2024-12-23 03:00:51 +0000"
@@ -2729,6 +2741,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 20:14:58 +0000"
     },
     "done": true
   },
@@ -3162,6 +3180,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:24 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_bowl": "2024-12-24 20:14:58 +0000"
     },
     "done": true
   },
@@ -4214,7 +4238,8 @@
       "neapolitan:plantain_spider": "2024-12-23 03:49:31 +0000",
       "minecraft:zombie": "2024-12-21 02:56:42 +0000",
       "quark:foxhound": "2024-12-23 00:22:26 +0000",
-      "minecraft:drowned": "2024-12-21 23:18:51 +0000"
+      "minecraft:drowned": "2024-12-21 23:18:51 +0000",
+      "savage_and_ravage:skeleton_villager": "2024-12-24 21:19:54 +0000"
     },
     "done": false
   },
@@ -5452,6 +5477,7 @@
       "neapolitan:strawberry_scones": "2024-12-21 21:37:51 +0000",
       "cooked_porkchop": "2024-12-22 23:53:58 +0000",
       "cooked_beef": "2024-12-23 00:34:12 +0000",
+      "mushroom_stew": "2024-12-24 20:14:58 +0000",
       "apple": "2024-12-23 05:02:09 +0000",
       "golden_carrot": "2024-12-23 02:51:24 +0000",
       "neapolitan:banana": "2024-12-21 23:28:08 +0000",
@@ -6004,6 +6030,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:02:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-24 20:14:58 +0000"
     },
     "done": true
   },

@@ -1,0 +1,25 @@
+{
+	id: "e7e3337b-6196-4153-bc61-31ac5a266596"
+	type: "party"
+	owner: "aa13d00e-5bda-37e1-a49d-1216688ffe68"
+	ranks: {
+		7effd5be-38be-38d2-9d2c-a8327f0f217a: "member"
+		aa13d00e-5bda-37e1-a49d-1216688ffe68: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Varamyr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735075775648L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Vata74\"}]}" }
+		{ from: "aa13d00e-5bda-37e1-a49d-1216688ffe68", date: 1735077555440L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Domitax\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735077558872L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Domitax\"}]}" }
+		{ from: "aa13d00e-5bda-37e1-a49d-1216688ffe68", date: 1735077569799L, text: "{\"text\":\"hola\"}" }
+		{ from: "7effd5be-38be-38d2-9d2c-a8327f0f217a", date: 1735077596791L, text: "{\"text\":\"nashe\"}" }
+		{ from: "7effd5be-38be-38d2-9d2c-a8327f0f217a", date: 1735077613442L, text: "{\"text\":\"hola\"}" }
+	]
+	extra: { }
+}

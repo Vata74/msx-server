@@ -2,9 +2,7 @@
 	id: "7effd5be-38be-38d2-9d2c-a8327f0f217a"
 	type: "player"
 	player_name: "Domitax"
-	ranks: {
-		7effd5be-38be-38d2-9d2c-a8327f0f217a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Domitax"
 		"ftbteams:description": ""
