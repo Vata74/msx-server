@@ -4501,3 +4501,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 06:27:28.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.1733014111188922
 [25Dec2024 06:27:28.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.360598119754581
 [25Dec2024 06:27:28.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.360598119754581
+[25Dec2024 06:38:27.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[25Dec2024 06:38:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[25Dec2024 06:38:27.490] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
