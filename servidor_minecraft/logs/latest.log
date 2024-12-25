@@ -4569,3 +4569,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 07:24:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
 [25Dec2024 07:24:43.897] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
 [25Dec2024 07:30:59.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=581, y=70, z=-375} BlockPos{x=582, y=70, z=-375}
+[25Dec2024 08:00:39.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Joacoo_17
+[25Dec2024 08:00:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server joaco
+[25Dec2024 08:00:59.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> q
+[25Dec2024 08:01:04.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server hasta cuando te quedas así lo apago
+[25Dec2024 08:01:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server estimativo
+[25Dec2024 08:01:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> ahora literal
+[25Dec2024 08:01:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server impresionante
+[25Dec2024 08:01:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> adios pa
+[25Dec2024 08:01:39.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[25Dec2024 08:01:39.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[25Dec2024 08:01:39.884] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[25Dec2024 08:01:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server descanse rey
+[25Dec2024 08:01:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[25Dec2024 08:02:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Dec2024 08:02:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Dec2024 08:02:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Dec2024 08:02:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Dec2024 08:02:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Dec2024 08:02:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Dec2024 08:02:03.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[25Dec2024 08:02:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25Dec2024 08:02:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25Dec2024 08:02:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[25Dec2024 08:02:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Dec2024 08:02:03.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[25Dec2024 08:02:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[25Dec2024 08:02:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[25Dec2024 08:02:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Dec2024 08:02:03.873] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[25Dec2024 08:02:03.876] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
