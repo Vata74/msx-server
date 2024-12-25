@@ -17799,3 +17799,735 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 05:31:35.492] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [19, -15], pos: MutableBlockPos{x=316, y=36, z=-240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [25Dec2024 05:31:35.492] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -15], pos: MutableBlockPos{x=324, y=37, z=-240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [25Dec2024 05:31:35.636] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, -14], pos: MutableBlockPos{x=297, y=99, z=-223}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:33:05.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[25Dec2024 05:33:05.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[25Dec2024 05:33:05.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:outposts/nether_brick/tower_aged
+[25Dec2024 05:33:05.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of savage_and_ravage:pillager_outpost/note_blocks/note_block11
+[25Dec2024 05:33:05.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of savage_and_ravage:pillager_outpost/note_blocks/note_block8
+[25Dec2024 05:33:05.773] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -23], pos: MutableBlockPos{x=140, y=59, z=-367}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[25Dec2024 05:33:05.773] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -23], pos: MutableBlockPos{x=135, y=57, z=-368}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[25Dec2024 05:33:05.780] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [9, -25], pos: MutableBlockPos{x=145, y=57, z=-386}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:33:05.799] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [13, -25], pos: MutableBlockPos{x=208, y=42, z=-389}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:34:20.222] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Dec2024 05:34:27.443] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25Dec2024 05:34:27.468] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=62, y=86, z=-27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[25Dec2024 05:34:27.470] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=62, y=86, z=-27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[25Dec2024 05:34:33.094] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[25Dec2024 05:34:33.117] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=62, y=86, z=-27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[25Dec2024 05:34:33.118] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=62, y=86, z=-27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[25Dec2024 05:35:30.025] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/45964, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 05:35:31.027] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/45998, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 05:35:33.027] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/46068, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:35:34.026] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/46114, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 05:36:04.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:36:04.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:37:32.284] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:33.130] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_sideways
+[25Dec2024 05:37:33.158] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_gallery_trap
+[25Dec2024 05:37:33.171] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-294}
+[25Dec2024 05:37:33.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-292}
+[25Dec2024 05:37:33.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-289}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-289}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-292}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-286}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-286}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-284}
+[25Dec2024 05:37:33.643] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/well/simple_well_top
+[25Dec2024 05:37:33.646] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/well/simple_well_bottom
+[25Dec2024 05:37:34.733] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/grove_arch
+[25Dec2024 05:37:35.167] [Server thread/DEBUG] [twilightforest/]: Did not find ideal portal spot, shooting for okay one for Spicy Wildflowers
+[25Dec2024 05:37:35.175] [Server thread/DEBUG] [twilightforest/]: Found okay portal spot for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[25Dec2024 05:37:35.212] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.218] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.242] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.249] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.287] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.290] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.338] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.340] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.387] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.390] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.437] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.439] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.486] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.488] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.536] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.538] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.587] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.589] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.638] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.640] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.644] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.646] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.691] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.693] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.751] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.754] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.791] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.794] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.835] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.837] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.886] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.888] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.937] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.939] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:35.986] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:35.988] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.042] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.045] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.087] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.089] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.138] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.140] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.186] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.188] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.237] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.239] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.286] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.288] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.337] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.339] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.387] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.389] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.436] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.438] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.486] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.488] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.698] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.734] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.761] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.764] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.794] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.796] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.842] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.844] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:36.890] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:36.893] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.097] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.166] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.193] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.197] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.223] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.226] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.245] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.248] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.295] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.298] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.499] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.580] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.607] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.610] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.637] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.639] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.661] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.664] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.694] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.697] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:37.899] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:37.978] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.001] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.003] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.025] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.027] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.050] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.052] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.093] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.095] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.298] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.366] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.393] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.395] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.423] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.426] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.449] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.452] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.491] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.493] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.700] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.765] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.790] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.792] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.814] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.816] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.839] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.842] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:38.889] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:38.891] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.100] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.162] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.183] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.185] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.202] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.204] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.238] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.241] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.289] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.292] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.502] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.570] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.591] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.593] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.611] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.613] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.634] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.636] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.685] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.687] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.899] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.953] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.973] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.974] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:39.993] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:39.995] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.036] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.038] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.087] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.089] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.172] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Dec2024 05:37:40.296] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.353] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.371] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.373] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.390] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.393] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.439] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.441] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.486] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.488] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.698] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.753] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.777] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.779] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.801] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.804] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.837] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.839] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:40.885] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:40.887] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.105] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.163] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.181] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.183] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.200] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.202] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.238] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.240] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.291] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.293] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.498] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.553] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.572] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.574] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.592] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.594] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.635] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.636] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.685] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.687] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.898] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.955] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.974] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.976] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:41.993] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:41.995] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.034] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.036] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.085] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.087] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.301] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.356] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.376] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.378] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.392] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.394] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.435] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.437] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.486] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.488] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.698] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.751] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.772] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.774] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.793] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.795] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.836] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.838] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:42.886] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:42.888] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.098] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.160] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.177] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.179] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.194] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.196] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.234] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.236] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.285] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.287] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.522] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.590] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.618] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.620] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.641] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.643] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.666] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.668] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.687] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.689] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.904] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.974] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:43.993] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:43.995] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.013] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.015] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.036] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.037] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.087] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.089] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.301] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.394] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.414] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.416] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.439] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.441] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.465] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.468] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.489] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.493] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.701] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.778] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.801] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.803] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.843] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.845] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.866] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.868] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:44.886] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:44.888] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.097] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.167] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.189] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.192] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.213] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.216] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.239] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.242] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.291] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.294] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.500] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.552] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.570] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.572] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.587] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.590] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.635] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.637] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.688] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.690] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.896] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.954] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.974] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.976] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:45.991] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:45.993] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.034] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.036] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.086] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.087] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.298] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.351] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.369] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.371] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.388] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.390] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.437] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.439] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.487] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.490] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.698] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.758] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.786] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.788] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.804] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.806] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.836] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.838] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:46.888] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:46.891] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.097] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.152] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.172] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.174] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.190] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.192] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.235] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.237] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.286] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.288] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.479] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:47.480] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:47.558] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.741] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.763] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.766] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.804] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.806] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.828] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.831] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.855] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.858] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.956] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.961] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.978] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.980] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:47.997] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:47.999] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.034] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.036] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.086] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.088] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.141] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.144] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.144] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.146] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.188] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.189] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.238] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.241] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.285] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.287] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.288] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.290] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.338] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.340] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.341] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.344] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.388] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.391] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.392] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.394] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.438] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.441] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.442] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.444] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.487] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.489] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.490] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.492] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.538] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.540] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.588] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.590] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.637] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.639] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.653] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:48.653] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:48.692] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.694] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.746] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.749] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.795] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.799] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.841] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.844] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.904] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.909] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.940] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.943] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:48.987] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:48.989] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.086] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.090] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.136] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.138] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.187] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.190] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.239] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.242] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.286] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.288] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.335] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.337] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.490] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.560] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.581] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.584] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.604] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.607] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.637] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.640] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:49.694] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:49.697] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.103] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 05:37:50.103] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 05:37:50.204] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.208] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.238] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.241] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.275] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.278] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.312] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.315] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.346] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.348] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.450] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.455] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.487] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.489] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.518] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.520] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.545] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.547] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.569] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.570] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.694] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.771] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.805] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.807] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.833] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.836] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.858] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.860] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:50.907] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:50.914] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.090] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.158] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.199] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.201] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.235] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.238] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.261] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.263] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.300] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.303] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.466] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:51.467] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[25Dec2024 05:37:51.495] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.553] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.574] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.576] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.593] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.595] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.634] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.636] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.686] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.689] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.886] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.964] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:51.986] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:51.988] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.005] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.007] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.032] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.034] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.086] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.088] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.284] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.346] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.363] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.365] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.384] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.386] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.434] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.436] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.483] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.485] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.695] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.791] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.837] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.841] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.878] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.880] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.898] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.900] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:52.921] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:52.924] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.094] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.170] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.194] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.197] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.223] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.226] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.246] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.248] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.288] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.291] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.498] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.576] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.598] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.601] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.623] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.626] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.651] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.654] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.689] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:53.693] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:53.893] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.009] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.046] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.050] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.079] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.082] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.099] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.101] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.118] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.119] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.315] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.409] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.447] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.451] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.484] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.488] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.515] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.519] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.549] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.553] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.704] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.757] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.790] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.793] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.818] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.821] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.841] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.844] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:54.892] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:54.896] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.083] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.140] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.162] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.164] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.185] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.187] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.235] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.237] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.286] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.288] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.485] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.548] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.571] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.573] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.591] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.593] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.636] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.638] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.688] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.691] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.885] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.930] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:55.987] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:55.991] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.012] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.014] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.034] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.036] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.088] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.089] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.291] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.352] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.372] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.374] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.389] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.391] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.437] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.439] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.484] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.486] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [The Silence of the Forest]
+[25Dec2024 05:37:56.683] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.728] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.749] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.752] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.786] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.789] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.832] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.834] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:56.886] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:56.889] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.084] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.148] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.168] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.170] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.186] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.188] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.236] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.239] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.288] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.291] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.485] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.554] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.578] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.580] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.602] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.605] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.636] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.638] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.685] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.688] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.885] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.933] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.954] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.956] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:57.985] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:57.988] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:58.035] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:58.038] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:58.088] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:58.091] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:58.292] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[25Dec2024 05:37:58.371] [Server thread/DEBUG] [twilightforest/]: Found existing portal for Spicy Wildflowers at BlockPos{x=579, y=23, z=-300}
+[25Dec2024 05:37:58.399] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[25Dec2024 05:37:58.403] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[25Dec2024 05:37:58.786] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/stone_circle
+[25Dec2024 05:37:59.328] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/pathway
+[25Dec2024 05:37:59.331] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_duct
+[25Dec2024 05:37:59.335] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_fire
+[25Dec2024 05:37:59.336] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding
+[25Dec2024 05:37:59.337] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding_decayed
+[25Dec2024 05:37:59.337] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall
+[25Dec2024 05:37:59.338] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_decayed
+[25Dec2024 05:37:59.340] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner
+[25Dec2024 05:37:59.341] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_decayed
+[25Dec2024 05:37:59.342] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner
+[25Dec2024 05:37:59.344] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner_decayed
+[25Dec2024 05:37:59.345] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end
+[25Dec2024 05:37:59.345] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_big
+[25Dec2024 05:37:59.346] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_between
+[25Dec2024 05:37:59.346] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_between_big
+[25Dec2024 05:37:59.347] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line
+[25Dec2024 05:37:59.347] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line_big
+[25Dec2024 05:37:59.348] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_corner
+[25Dec2024 05:37:59.349] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_corner_big
+[25Dec2024 05:37:59.349] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_pillar
+[25Dec2024 05:37:59.350] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_pillar_big
+[25Dec2024 05:38:03.944] [Server thread/DEBUG] [twilightforest/]: Did not find ideal portal spot, shooting for okay one for Spicy Wildflowers
+[25Dec2024 05:38:03.952] [Server thread/DEBUG] [twilightforest/]: Found okay portal spot for Spicy Wildflowers at BlockPos{x=472, y=142, z=-389}
+[25Dec2024 05:38:04.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5639ms or 112 ticks behind
+[25Dec2024 05:38:18.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_doubledeck
+[25Dec2024 05:38:18.726] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_gallery
+[25Dec2024 05:38:18.730] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[25Dec2024 05:38:18.730] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[25Dec2024 05:38:18.756] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_hut
+[25Dec2024 05:39:56.722] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[25Dec2024 05:39:56.723] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[25Dec2024 05:39:56.723] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[25Dec2024 05:39:56.725] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[25Dec2024 05:41:00.122] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Dec2024 05:41:00.122] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Dec2024 05:41:04.325] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/51398, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:41:05.325] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/51454, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[25Dec2024 05:41:07.327] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/51569, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[25Dec2024 05:41:08.327] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/51642, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
+[25Dec2024 05:41:13.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:41:13.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:42:43.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IAN9IRV018> ya vuelvo

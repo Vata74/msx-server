@@ -4408,3 +4408,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 05:31:35.492] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [19, -15], pos: MutableBlockPos{x=316, y=36, z=-240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [25Dec2024 05:31:35.492] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -15], pos: MutableBlockPos{x=324, y=37, z=-240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [25Dec2024 05:31:35.636] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, -14], pos: MutableBlockPos{x=297, y=99, z=-223}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:33:05.773] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -23], pos: MutableBlockPos{x=140, y=59, z=-367}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[25Dec2024 05:33:05.773] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -23], pos: MutableBlockPos{x=135, y=57, z=-368}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[25Dec2024 05:33:05.780] [Worker-Main-58/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [9, -25], pos: MutableBlockPos{x=145, y=57, z=-386}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:33:05.799] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [13, -25], pos: MutableBlockPos{x=208, y=42, z=-389}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[25Dec2024 05:37:33.171] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-294}
+[25Dec2024 05:37:33.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-292}
+[25Dec2024 05:37:33.172] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-289}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-289}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-292}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-286}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-286}
+[25Dec2024 05:37:33.173] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-284}
+[25Dec2024 05:37:35.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[25Dec2024 05:37:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [The Silence of the Forest]
+[25Dec2024 05:38:04.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5639ms or 112 ticks behind
+[25Dec2024 05:38:18.730] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[25Dec2024 05:38:18.730] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[25Dec2024 05:38:18.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[25Dec2024 05:39:56.722] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[25Dec2024 05:39:56.723] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[25Dec2024 05:39:56.723] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[25Dec2024 05:39:56.724] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[25Dec2024 05:39:56.725] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[25Dec2024 05:42:43.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IAN9IRV018> ya vuelvo
