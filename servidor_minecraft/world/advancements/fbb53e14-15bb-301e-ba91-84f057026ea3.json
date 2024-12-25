@@ -1651,6 +1651,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-25 07:03:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 23:17:00 +0000"
@@ -2928,6 +2934,7 @@
       "minecraft:cave_spider": "2024-12-22 21:26:31 +0000",
       "minecraft:piglin": "2024-12-25 06:28:36 +0000",
       "minecraft:stray": "2024-12-22 20:45:29 +0000",
+      "minecraft:enderman": "2024-12-25 07:03:50 +0000",
       "minecraft:vex": "2024-12-24 02:39:39 +0000",
       "minecraft:zombie": "2024-12-21 22:53:02 +0000",
       "minecraft:drowned": "2024-12-22 07:42:52 +0000",
@@ -6764,6 +6771,7 @@
       "byg:autumnal_forest": "2024-12-22 04:27:16 +0000",
       "byg:rose_fields": "2024-12-25 06:15:12 +0000",
       "byg:cika_woods": "2024-12-22 01:05:15 +0000",
+      "byg:magma_wastes": "2024-12-25 07:06:54 +0000",
       "byg:embur_bog": "2024-12-22 22:25:42 +0000",
       "byg:zelkova_forest": "2024-12-22 01:05:28 +0000",
       "byg:dacite_ridges": "2024-12-21 22:49:47 +0000",
