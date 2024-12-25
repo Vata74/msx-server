@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-12-25 03:35:01 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:25:03 +0000"
@@ -5760,6 +5766,12 @@
   "byg:recipes/byg.byg/witch_hazel_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 05:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-12-25 03:35:01 +0000"
     },
     "done": true
   },
