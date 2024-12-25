@@ -2756,6 +2756,12 @@
     },
     "done": true
   },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2024-12-25 05:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-25 04:52:51 +0000"
