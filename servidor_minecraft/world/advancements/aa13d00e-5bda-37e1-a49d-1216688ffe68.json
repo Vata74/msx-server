@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
@@ -1169,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
@@ -1534,6 +1546,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
     "criteria": {
       "has_plank": "2024-12-21 03:25:03 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_tiles_from_baking": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
     },
     "done": true
   },
@@ -4024,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_fence_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
@@ -4483,6 +4507,12 @@
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-25 04:36:51 +0000"
     },
     "done": true
   },
@@ -5754,6 +5784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_tile_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -6504,6 +6540,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
     },
     "done": true
   },
@@ -7374,6 +7416,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
     },
     "done": true
   },
@@ -10027,6 +10075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 04:46:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
@@ -10392,6 +10446,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_tiles": {
+    "criteria": {
+      "has_copper_block": "2024-12-25 04:46:37 +0000"
     },
     "done": true
   },
