@@ -16609,3 +16609,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 03:16:59.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kffwhtm1vhgj]: Consuming argument `y==`
 [25Dec2024 03:17:00.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11exvpqyss2oy]: started parsing
 [25Dec2024 03:17:00.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11exvpqyss2oy]: Consuming argument `y==65`
+[25Dec2024 03:19:46.914] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Dec2024 03:19:46.964] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Dec2024 03:20:17.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 03:20:17.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 03:23:07.214] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Dec2024 03:25:17.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 03:25:17.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 03:26:27.064] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Dec2024 03:28:37.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[25Dec2024 03:28:37.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[25Dec2024 03:28:37.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[25Dec2024 03:28:37.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
