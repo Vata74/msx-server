@@ -2895,6 +2895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-25 03:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-22 22:03:04 +0000"
@@ -4747,6 +4753,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2024-12-24 22:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-25 03:11:55 +0000"
     },
     "done": true
   },
@@ -8713,6 +8725,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_bricks_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2024-12-25 03:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
@@ -9794,6 +9812,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_bricks": {
+    "criteria": {
+      "has_packed_ice": "2024-12-25 03:11:55 +0000"
     },
     "done": true
   },
