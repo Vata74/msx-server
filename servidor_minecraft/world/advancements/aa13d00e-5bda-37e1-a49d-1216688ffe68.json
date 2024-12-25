@@ -7269,6 +7269,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/deepslate_brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-25 04:28:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"

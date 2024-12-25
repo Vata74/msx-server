@@ -4184,8 +4184,15 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2024-12-25 04:32:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2024-12-25 04:30:35 +0000",
       "potato": "2024-12-23 15:56:33 +0000",
       "wheat": "2024-12-23 15:56:47 +0000"
     },
