@@ -4565,3 +4565,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 07:10:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
 [25Dec2024 07:10:23.803] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
 [25Dec2024 07:10:23.808] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[25Dec2024 07:24:43.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[25Dec2024 07:24:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[25Dec2024 07:24:43.897] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[25Dec2024 07:30:59.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=581, y=70, z=-375} BlockPos{x=582, y=70, z=-375}

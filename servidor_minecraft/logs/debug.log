@@ -20319,3 +20319,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 07:21:34.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 07:21:35.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 07:24:20.772] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Dec2024 07:24:43.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[25Dec2024 07:24:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[25Dec2024 07:24:43.897] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[25Dec2024 07:26:34.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 07:26:34.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 07:27:40.672] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Dec2024 07:30:59.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=581, y=70, z=-375} BlockPos{x=582, y=70, z=-375}
+[25Dec2024 07:31:19.022] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Dec2024 07:31:19.022] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Dec2024 07:31:34.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 07:31:34.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 07:34:20.822] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
