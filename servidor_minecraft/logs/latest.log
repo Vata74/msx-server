@@ -4504,3 +4504,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [25Dec2024 06:38:27.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
 [25Dec2024 06:38:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
 [25Dec2024 06:38:27.490] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[25Dec2024 06:44:04.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[25Dec2024 06:44:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[25Dec2024 06:44:04.893] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[25Dec2024 06:44:17.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Nefario99: te amo
+[25Dec2024 06:44:30.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server avisame si se cierra al privao
+[25Dec2024 06:44:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nefario99> wtf
+[25Dec2024 06:44:44.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server pero del wasap
+[25Dec2024 06:48:46.501] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@648793ec
+[25Dec2024 06:48:46.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:49263] logged in with entity id 106177 at (661.0487995389711, 65.25220334025373, -218.87633510737038)
+[25Dec2024 06:48:46.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[25Dec2024 06:48:46.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[25Dec2024 06:48:46.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[25Dec2024 06:48:46.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[25Dec2024 06:48:46.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[25Dec2024 06:48:46.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[25Dec2024 06:48:46.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[25Dec2024 06:48:46.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[25Dec2024 06:48:46.587] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[25Dec2024 06:48:46.599] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
