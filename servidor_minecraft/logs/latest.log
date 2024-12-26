@@ -4209,3 +4209,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 18:59:53.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
 [26Dec2024 18:59:53.703] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
 [26Dec2024 18:59:53.711] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[26Dec2024 19:31:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [The Silence of the Forest]
+[26Dec2024 19:31:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Bug Stomper]
+[26Dec2024 19:32:58.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[26Dec2024 19:32:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[26Dec2024 19:32:58.980] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
