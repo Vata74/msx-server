@@ -1476,6 +1476,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_planter_box": {
+    "criteria": {
+      "has_slab": "2024-12-26 20:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 02:06:49 +0000"
@@ -1992,6 +1998,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 20:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-21 04:17:59 +0000"
@@ -2223,6 +2235,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-21 05:24:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-26 20:51:27 +0000"
     },
     "done": true
   },
@@ -2598,6 +2616,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-26 20:51:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
@@ -2830,6 +2854,12 @@
   "byg:recipes/byg.byg/jacaranda_wood": {
     "criteria": {
       "has_log": "2024-12-26 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 20:51:26 +0000"
     },
     "done": true
   },
@@ -3194,6 +3224,12 @@
     },
     "done": false
   },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-26 20:51:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/carrot_from_crate": {
     "criteria": {
       "has_carrot_crate": "2024-12-25 20:52:20 +0000"
@@ -3347,6 +3383,12 @@
   "byg:recipes/byg.byg/skyris_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 20:51:27 +0000"
     },
     "done": true
   },
@@ -4863,6 +4905,12 @@
   "woodworks:recipes/redstone/jungle_button_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-26 20:51:25 +0000"
     },
     "done": true
   },
@@ -6736,6 +6784,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2024-12-26 20:51:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-21 02:26:34 +0000"
@@ -7281,6 +7335,12 @@
   "biomemakeover:biomemakeover/mansion": {
     "criteria": {
       "ghost_town": "2024-12-21 04:28:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-26 20:51:26 +0000"
     },
     "done": true
   },
@@ -7853,6 +7913,12 @@
   "woodworks:recipes/decorations/jungle_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-26 20:51:27 +0000"
     },
     "done": true
   },
