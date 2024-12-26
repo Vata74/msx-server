@@ -18470,3 +18470,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 20:52:54.910] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [26Dec2024 20:52:59.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 20:52:59.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 20:56:15.060] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[26Dec2024 20:57:59.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:57:59.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 20:59:28.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[26Dec2024 20:59:35.010] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[26Dec2024 20:59:39.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[26Dec2024 20:59:39.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[26Dec2024 20:59:39.522] [Worker-Main-164/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_2
+[26Dec2024 20:59:42.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall
+[26Dec2024 20:59:42.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/three_way
+[26Dec2024 20:59:42.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[26Dec2024 20:59:42.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/chest
+[26Dec2024 20:59:42.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/dead_end
+[26Dec2024 20:59:42.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/quest_tower
+[26Dec2024 20:59:42.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/large
+[26Dec2024 20:59:42.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/bedroom
+[26Dec2024 20:59:42.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/broken
+[26Dec2024 20:59:42.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/spawner
+[26Dec2024 20:59:42.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs
+[26Dec2024 20:59:42.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/normal
+[26Dec2024 20:59:42.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/lava
+[26Dec2024 20:59:42.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/small
+[26Dec2024 20:59:42.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/four_way
+[26Dec2024 20:59:42.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/iron_bars
+[26Dec2024 20:59:42.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[26Dec2024 20:59:50.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 fell from a high place
+[26Dec2024 20:59:55.025] [Server thread/DEBUG] [twilightforest/]: Player Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed) respawned and received items held in storage
+[26Dec2024 21:02:54.960] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[26Dec2024 21:02:54.960] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[26Dec2024 21:02:59.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:02:59.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:03:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Sneak 100]
+[26Dec2024 21:06:15.110] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!

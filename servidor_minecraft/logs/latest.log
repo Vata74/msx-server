@@ -4227,3 +4227,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 20:48:57.662] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
 [26Dec2024 20:48:57.697] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
 [26Dec2024 20:51:27.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Crops of the Wild]
+[26Dec2024 20:59:50.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 fell from a high place
+[26Dec2024 21:03:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Sneak 100]

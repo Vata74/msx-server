@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/environmental/hollow_wisteria_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-25 20:40:33 +0000"
@@ -92,6 +98,12 @@
   "clayworks:recipes/decorations/brown_terracotta_brick_wall_from_brown_terracotta_stonecutting": {
     "criteria": {
       "has_brown_terracotta": "2024-12-21 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -140,6 +152,12 @@
   "woodworks:recipes/redstone/jungle_door_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -395,9 +413,21 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/wisteria_boards": {
+    "criteria": {
+      "has_wisteria_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_warped_garden": {
     "criteria": {
       "in_structure": "2024-12-23 00:15:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -497,6 +527,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/wisteria_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/springshroom_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
@@ -560,6 +596,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 22:25:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -650,6 +692,12 @@
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_bench": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -1062,6 +1110,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/smooth_lumiere": {
     "criteria": {
       "has_lumiere_block": "2024-12-22 01:51:08 +0000"
@@ -1173,6 +1227,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-26 02:44:30 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -1320,6 +1380,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/environmental/wisteria_beam": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-26 03:32:20 +0000"
@@ -1359,6 +1425,12 @@
   "woodworks:recipes/decorations/spruce_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_planks_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -1980,6 +2052,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/spruce_trapdoor_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
     "criteria": {
       "has_item": "2024-12-23 20:55:52 +0000"
@@ -2088,6 +2166,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:18:44 +0000"
@@ -2103,6 +2193,12 @@
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/environmental/wisteria_banister": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -2271,6 +2367,12 @@
   "woodworks:recipes/building_blocks/mangrove_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/wisteria_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -2857,6 +2959,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-26 20:51:26 +0000"
@@ -2866,6 +2974,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -2959,6 +3073,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2024-12-23 01:27:22 +0000"
@@ -3010,6 +3130,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/environmental/wisteria_support": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -3100,6 +3226,12 @@
   "byg:recipes/byg.byg/skyris_boat": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -3410,6 +3542,12 @@
     },
     "done": true
   },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/warped_door_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-12-23 00:18:01 +0000"
@@ -3494,6 +3632,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/embur_slab": {
     "criteria": {
       "has_planks": "2024-12-23 02:12:34 +0000"
@@ -3521,6 +3665,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -4436,6 +4586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:23 +0000"
@@ -4514,6 +4670,12 @@
     },
     "done": true
   },
+  "vinery:shelf": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/embur_wood": {
     "criteria": {
       "has_log": "2024-12-23 02:12:27 +0000"
@@ -4541,6 +4703,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-25 05:26:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/wisteria_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -4574,6 +4742,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/wisteria_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
@@ -4601,6 +4775,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -4677,6 +4857,12 @@
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2024-12-21 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/wisteria_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 20:55:30 +0000"
     },
     "done": true
   },
@@ -4830,6 +5016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 02:11:40 +0000"
@@ -4863,6 +5055,12 @@
   "byg:recipes/byg.byg/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -5028,6 +5226,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_sign_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -5085,6 +5289,12 @@
   "stoneworks:recipes/stoneworks.main/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -5241,6 +5451,12 @@
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2024-12-22 04:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -5463,6 +5679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-21 02:30:57 +0000"
@@ -5580,6 +5802,12 @@
   "stoneworks:recipes/stoneworks.main/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -5712,6 +5940,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 21:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -6015,6 +6249,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/environmental/wisteria_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/brown_terracotta_slab_from_brown_terracotta_stonecutting": {
     "criteria": {
       "has_brown_terracotta": "2024-12-21 05:39:13 +0000"
@@ -6153,6 +6393,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/wisteria_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 20:55:30 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 02:13:38 +0000"
@@ -6180,6 +6426,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -6216,6 +6468,12 @@
   "aether_redux:recipes/combat/spectral_dart": {
     "criteria": {
       "has_feather": "2024-12-22 01:27:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -6492,6 +6750,12 @@
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_nightstand": "2024-12-26 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -7103,9 +7367,21 @@
     },
     "done": true
   },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_boat": {
     "criteria": {
       "has_planks": "2024-12-26 03:06:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -7124,6 +7400,12 @@
   "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-25 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -7172,6 +7454,18 @@
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2024-12-23 18:49:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -7302,9 +7596,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/environmental/wisteria_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -7341,6 +7647,12 @@
   "twilightforest:recipes/twilightforest/wood/spruce_banister": {
     "criteria": {
       "has_item": "2024-12-26 20:51:26 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_pressure_plate_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -7452,6 +7764,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/jungle_slab_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-23 17:37:09 +0000"
@@ -7509,6 +7827,12 @@
   "minecraft:recipes/building_blocks/fieldsprout_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/wisteria_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -7589,6 +7913,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-21 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/wisteria_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -7718,6 +8048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
@@ -7733,6 +8069,12 @@
   "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
       "capsid": "2024-12-23 00:20:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -7808,6 +8150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-25 05:26:27 +0000"
@@ -7817,6 +8165,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -8331,6 +8685,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_boards": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/mangrove_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
@@ -8359,6 +8719,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-21 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_door_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
     },
     "done": true
   },
@@ -8662,6 +9028,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/wisteria_vertical_slab": {
+    "criteria": {
+      "has_wisteria_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-21 02:11:40 +0000"
@@ -8770,6 +9142,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/wisteria_bench": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_item": "2024-12-24 07:03:40 +0000"
@@ -8779,6 +9157,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2024-12-23 17:52:55 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/wisteria_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -9630,6 +10014,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-12-22 06:44:50 +0000"
@@ -9900,9 +10290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_ladder_from_acacia_planks_sawing": {
     "criteria": {
       "has_acacia_planks": "2024-12-21 23:16:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -10020,6 +10422,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/wisteria_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 02:15:40 +0000"
@@ -10107,6 +10515,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:54:09 +0000"
     },
     "done": true
   },
@@ -10440,6 +10854,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-12-26 20:54:04 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2024-12-21 05:39:24 +0000"
@@ -10527,6 +10947,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/environmental/wisteria_seat": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -10629,6 +11055,12 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2024-12-23 17:21:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/environmental/wisteria_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 20:57:43 +0000"
     },
     "done": true
   },
