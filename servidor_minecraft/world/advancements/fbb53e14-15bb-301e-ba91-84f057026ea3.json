@@ -6321,6 +6321,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 19:17:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-21 23:43:05 +0000"
@@ -7240,6 +7246,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 19:17:16 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 20:29:48 +0000"
@@ -7345,6 +7357,12 @@
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 19:17:16 +0000"
     },
     "done": true
   },

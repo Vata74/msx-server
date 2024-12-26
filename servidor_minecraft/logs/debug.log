@@ -18003,3 +18003,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 19:12:54.410] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [26Dec2024 19:12:59.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 19:12:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:15:11.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[26Dec2024 19:15:13.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/main_1
+[26Dec2024 19:15:13.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_2
+[26Dec2024 19:15:13.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_1
+[26Dec2024 19:16:14.560] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[26Dec2024 19:17:00.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[26Dec2024 19:17:14.010] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[26Dec2024 19:17:14.010] [Server thread/DEBUG] [mixin/]: guardvillagers.mixins.json:VillagerGoalPackagesMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Dec2024 19:17:14.014] [Server thread/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[26Dec2024 19:17:14.021] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[26Dec2024 19:17:14.022] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[26Dec2024 19:17:14.022] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$988042$0 in kiwi.mixins.json:WorkAtComposterAccess
+[26Dec2024 19:17:14.022] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$988042$1 in kiwi.mixins.json:WorkAtComposterAccess
+[26Dec2024 19:17:14.024] [Server thread/DEBUG] [mixin/]: Mixing FarmTaskMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[26Dec2024 19:17:14.025] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$tick$0(Ljava/util/List;Ljava/util/Map$Entry;)V to md988042$lambda$tick$0$0 in smarterfarmers-common.mixins.json:FarmTaskMixin
+[26Dec2024 19:17:14.034] [Server thread/DEBUG] [mixin/]: Mixing HarvestFarmlandMixin from quark.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[26Dec2024 19:17:14.048] [Server thread/DEBUG] [mixin/]: Mixing UseBonemealMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.UseBonemeal
+[26Dec2024 19:17:14.051] [Server thread/DEBUG] [mixin/]: Mixing StayNearPointTaskMixin from blue_skies.mixins.json into net.minecraft.world.entity.ai.behavior.SetWalkTargetFromBlockMemory
+[26Dec2024 19:17:14.062] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.entity.ai.behavior.CelebrateVillagersSurvivedRaidMixin from redirector.mixins.json into net.minecraft.world.entity.ai.behavior.CelebrateVillagersSurvivedRaid
+[26Dec2024 19:17:32.115] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/21347, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3264.50, removed=DISCARDED].
+[26Dec2024 19:17:33.141] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/21379, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[26Dec2024 19:17:59.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:17:59.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:19:34.510] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[26Dec2024 19:20:54.618] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23064, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[26Dec2024 19:20:55.115] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/23100, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[26Dec2024 19:22:54.460] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[26Dec2024 19:22:54.460] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[26Dec2024 19:22:59.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:22:59.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:23:21.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[26Dec2024 19:23:21.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[26Dec2024 19:23:21.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/mushroom/beekeeper_area
+[26Dec2024 19:23:21.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/mushroom/copper_golem_area
+[26Dec2024 19:23:21.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:villages/mushroom/houses/compost_pile_1
+[26Dec2024 19:23:21.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incubation:villages/mushroom/chicken_coop_1
+[26Dec2024 19:23:21.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incubation:villages/persistent_chickens
