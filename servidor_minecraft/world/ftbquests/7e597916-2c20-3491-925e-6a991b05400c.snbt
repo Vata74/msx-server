@@ -4,9 +4,19 @@
 	name: "maggie_"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		7FC5892104C0744C: 1
+	}
+	started: {
+		0D7FF8F037EFF568: 1735180720857L
+		7FC5892104C0744C: 1735180720857L
+		0000000000000001: 1735180720857L
+		46D0AAEEB69E28B3: 1735180720857L
+	}
+	completed: {
+		7FC5892104C0744C: 1735180720858L
+		46D0AAEEB69E28B3: 1735180720858L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }

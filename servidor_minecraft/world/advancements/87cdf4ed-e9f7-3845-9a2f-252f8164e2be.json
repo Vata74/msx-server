@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "vinery:birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-21 05:00:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },
@@ -875,6 +887,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-21 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },
@@ -1874,6 +1892,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
@@ -1919,6 +1943,12 @@
   "woodworks:recipes/redstone/jungle_fence_gate_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-12-24 03:26:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -2390,6 +2420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
+    },
+    "done": true
+  },
   "frosted_friends:frosted_friends": {
     "criteria": {
       "frosted_friends": "2024-12-21 04:43:26 +0000"
@@ -2459,6 +2495,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -2798,6 +2840,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-22 03:23:34 +0000"
@@ -2825,6 +2873,12 @@
   "woodworks:recipes/building_blocks/jungle_slab_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-24 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -3095,6 +3149,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },
@@ -3862,6 +3922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
@@ -4014,6 +4080,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -4095,6 +4167,12 @@
   "aether:recipes/tools/wooden_shovel_repairing": {
     "criteria": {
       "has_wooden_shovel": "2024-12-21 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },
@@ -4404,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2024-12-21 04:51:42 +0000"
@@ -4533,6 +4617,18 @@
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2024-12-21 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -4844,6 +4940,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_boards": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/quark/blossom_bench": {
     "criteria": {
       "has_planks": "2024-12-21 05:01:54 +0000"
@@ -4878,6 +4980,12 @@
   "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
     "criteria": {
       "has_item": "2024-12-25 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -4957,6 +5065,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-24 07:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -5237,6 +5351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2024-12-21 04:49:12 +0000"
@@ -5399,6 +5519,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-24 02:13:49 +0000"
@@ -5459,6 +5585,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-26 04:53:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-25 04:51:46 +0000"
@@ -5498,6 +5630,12 @@
   "stoneworks:recipes/stoneworks.main/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-25 04:51:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
   },
@@ -5878,6 +6016,12 @@
   "woodworks:recipes/decorations/jungle_ladder_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-24 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },
@@ -6322,6 +6466,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:53:41 +0000"
     },
     "done": true
   },

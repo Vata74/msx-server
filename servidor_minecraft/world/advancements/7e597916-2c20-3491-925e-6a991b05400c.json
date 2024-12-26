@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
@@ -105,6 +111,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_beam": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
@@ -120,6 +138,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -201,6 +225,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:20 +0000"
@@ -240,6 +270,12 @@
   "stoneworks:recipes/stoneworks.main/calcite_shingle_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 02:33:15 +0000"
     },
     "done": true
   },
@@ -330,6 +366,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-22 04:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-26 02:28:34 +0000"
     },
     "done": true
   },
@@ -483,6 +525,18 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-26 02:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:39:23 +0000"
@@ -523,6 +577,12 @@
   "incubation:recipes/decorations/hay_nest": {
     "criteria": {
       "has_wheat": "2024-12-23 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -616,6 +676,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2024-12-22 04:03:25 +0000"
@@ -667,6 +733,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-22 04:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -745,6 +817,12 @@
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2024-12-23 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-26 02:16:03 +0000"
     },
     "done": true
   },
@@ -833,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-23 04:45:39 +0000"
@@ -866,7 +950,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 03:30:10 +0000",
-      "minecraft:creeper": "2024-12-23 05:09:49 +0000"
+      "minecraft:spider": "2024-12-26 02:29:54 +0000",
+      "minecraft:creeper": "2024-12-23 05:09:49 +0000",
+      "minecraft:zombie": "2024-12-26 02:50:16 +0000"
     },
     "done": false
   },
@@ -960,6 +1046,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 04:44:16 +0000"
@@ -1035,6 +1127,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-22 04:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-26 02:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -1170,6 +1274,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 02:38:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
@@ -1284,6 +1394,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -1368,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2024-12-22 04:31:26 +0000"
@@ -1434,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-23 05:12:30 +0000"
@@ -1452,6 +1580,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2024-12-26 03:27:08 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_river_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-23 05:07:48 +0000"
@@ -1461,6 +1595,12 @@
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-22 04:09:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -1524,6 +1664,18 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
@@ -1584,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-22 04:34:11 +0000"
@@ -1593,6 +1751,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-22 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-26 03:40:21 +0000"
     },
     "done": true
   },
@@ -1663,6 +1827,7 @@
       "minecraft:frozen_river": "2024-12-23 03:36:52 +0000",
       "minecraft:birch_forest": "2024-12-22 04:23:08 +0000",
       "minecraft:dark_forest": "2024-12-22 04:03:26 +0000",
+      "minecraft:sparse_jungle": "2024-12-26 02:52:06 +0000",
       "minecraft:river": "2024-12-22 04:22:58 +0000",
       "minecraft:snowy_plains": "2024-12-23 03:36:22 +0000",
       "minecraft:stony_shore": "2024-12-23 03:25:45 +0000",
@@ -1746,6 +1911,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2024-12-26 03:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:20 +0000"
@@ -1767,6 +1938,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-22 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -1854,6 +2031,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/jacaranda_banister": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:23:50 +0000"
@@ -1909,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-26 02:42:47 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:51:08 +0000"
@@ -1918,6 +2107,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -1932,6 +2127,12 @@
       "has_ingot": "2024-12-23 04:34:45 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-26 02:38:41 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
@@ -2137,6 +2338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
@@ -2176,6 +2383,18 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -2245,6 +2464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-23 03:57:15 +0000"
@@ -2254,6 +2479,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-23 04:33:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_support": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -2284,6 +2515,18 @@
   "windswept:recipes/decorations/wild_berry_basket": {
     "criteria": {
       "has_berries": "2024-12-23 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2024-12-26 02:28:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -2347,6 +2590,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/faf/byg/jacaranda_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-22 04:48:21 +0000"
@@ -2401,6 +2650,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-26 02:42:32 +0000"
+    },
+    "done": true
+  },
   "vinery:red_grape_crate": {
     "criteria": {
       "has_red_grape": "2024-12-23 04:40:36 +0000"
@@ -2419,16 +2674,42 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-26 02:15:55 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-26 02:42:47 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-26 02:18:17 +0000",
       "melon_slice": "2024-12-23 03:53:33 +0000",
       "cooked_porkchop": "2024-12-22 04:41:49 +0000",
+      "cooked_beef": "2024-12-26 02:42:21 +0000",
       "mutton": "2024-12-23 04:33:32 +0000",
       "mushroom_stew": "2024-12-23 04:24:34 +0000",
       "cooked_mutton": "2024-12-22 04:29:31 +0000",
@@ -2495,6 +2776,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/food/mutton_pie": {
     "criteria": {
       "has_cooked_mutton": "2024-12-22 04:29:27 +0000"
@@ -2555,6 +2842,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-26 02:04:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:39:23 +0000"
@@ -2585,9 +2878,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2024-12-26 02:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -2645,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-22 04:09:02 +0000"
@@ -2693,6 +3004,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/hollow_jacaranda_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:31 +0000"
@@ -2702,6 +3025,12 @@
   "stoneworks:recipes/stoneworks.main/polished_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 02:33:15 +0000"
     },
     "done": true
   },
@@ -2726,6 +3055,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -2789,6 +3124,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_seat": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -2834,6 +3175,12 @@
   "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-23 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -2951,6 +3298,18 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-26 02:13:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-22 04:09:20 +0000"
@@ -2972,6 +3331,12 @@
   "woodworks:recipes/building_blocks/oak_boards": {
     "criteria": {
       "has_oak_planks": "2024-12-23 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-26 02:38:40 +0000"
     },
     "done": true
   },
@@ -3029,6 +3394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-26 02:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
@@ -3062,6 +3433,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-22 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/glass_from_baking": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -3165,6 +3542,12 @@
     "criteria": {
       "has_bamboo": "2024-12-22 04:03:25 +0000",
       "has_bundle": "2024-12-22 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
     },
     "done": true
   },
@@ -3273,6 +3656,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -3396,6 +3785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-22 04:06:15 +0000"
@@ -3474,6 +3869,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-22 04:29:27 +0000"
@@ -3483,6 +3884,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -3510,6 +3917,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/byg/jacaranda_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2024-12-22 04:13:51 +0000"
@@ -3519,6 +3932,12 @@
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2024-12-26 03:00:04 +0000"
     },
     "done": true
   },
@@ -3642,6 +4061,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/redstone/holly_trapped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-22 04:13:51 +0000"
@@ -3740,6 +4165,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-26 02:15:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_stairs": {
     "criteria": {
       "has_item": "2024-12-22 04:44:16 +0000"
@@ -3776,6 +4207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-26 03:40:21 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-23 04:45:39 +0000"
@@ -3803,6 +4240,12 @@
   "incubation:recipes/food/scrambled_eggs": {
     "criteria": {
       "has_bowl": "2024-12-23 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-26 03:40:21 +0000"
     },
     "done": true
   },
@@ -3839,6 +4282,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
@@ -4004,6 +4453,18 @@
     },
     "done": true
   },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-12-26 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 02:38:40 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_brick_stairs_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2024-12-22 04:43:07 +0000"
@@ -4040,6 +4501,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2024-12-26 02:39:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/upgrade_aquatic/river_seat": {
     "criteria": {
       "has_planks": "2024-12-23 05:07:48 +0000"
@@ -4067,6 +4534,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-23 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 02:35:20 +0000"
     },
     "done": true
   },
