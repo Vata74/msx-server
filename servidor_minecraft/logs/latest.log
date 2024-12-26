@@ -4188,3 +4188,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 18:43:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
 [26Dec2024 18:43:18.729] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
 [26Dec2024 18:43:18.735] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[26Dec2024 18:47:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi fell from a high place
+[26Dec2024 18:50:08.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[26Dec2024 18:50:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[26Dec2024 18:50:08.974] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[26Dec2024 18:55:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Nefario99
+[26Dec2024 18:57:03.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Use to be Cool]
+[26Dec2024 18:57:57.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[26Dec2024 18:57:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[26Dec2024 18:57:57.969] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:59:53.627] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24a361a
+[26Dec2024 18:59:53.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.125.195.41:46775] logged in with entity id 17822 at (229.58109987231825, 63.0, -172.63732053215668)
+[26Dec2024 18:59:53.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[26Dec2024 18:59:53.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[26Dec2024 18:59:53.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[26Dec2024 18:59:53.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[26Dec2024 18:59:53.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[26Dec2024 18:59:53.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[26Dec2024 18:59:53.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[26Dec2024 18:59:53.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[26Dec2024 18:59:53.703] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:59:53.711] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)

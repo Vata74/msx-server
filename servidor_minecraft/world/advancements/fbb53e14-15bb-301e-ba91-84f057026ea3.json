@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_beam": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 23:17:58 +0000"
@@ -852,6 +858,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-22 21:17:49 +0000"
@@ -1149,6 +1161,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-21 22:50:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -2709,6 +2727,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-26 02:35:45 +0000"
@@ -3255,6 +3279,12 @@
     },
     "done": true
   },
+  "frosted_friends:fridge_advancement": {
+    "criteria": {
+      "fridge_advancement": "2024-12-26 18:57:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
@@ -3591,6 +3621,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 20:11:23 +0000"
@@ -3777,6 +3813,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/jacaranda_banister": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:03 +0000"
@@ -3816,6 +3858,12 @@
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -4059,6 +4107,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:35:04 +0000"
@@ -4068,6 +4122,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -4716,6 +4776,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-21 22:59:10 +0000"
@@ -5142,6 +5208,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 23:28:43 +0000"
@@ -5157,6 +5229,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-25 06:29:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -6568,6 +6646,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/cyan_terracotta_brick_slab_from_cyan_terracotta_stonecutting": {
     "criteria": {
       "has_cyan_terracotta": "2024-12-24 01:54:02 +0000"
@@ -6679,6 +6763,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-21 22:57:13 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -6928,6 +7018,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_seat": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
@@ -7081,6 +7177,12 @@
   "vinery:wine_rack_5": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -7253,6 +7355,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-24 19:45:35 +0000"
@@ -7403,6 +7511,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/byg/jacaranda_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-22 20:11:23 +0000"
@@ -7466,6 +7580,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-12-22 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -8231,6 +8351,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 23:50:44 +0000"
@@ -8487,6 +8613,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-21 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -8931,6 +9063,12 @@
   "clayworks:recipes/building_blocks/brown_terracotta_brick_vertical_slab_from_brown_terracotta_stonecutting": {
     "criteria": {
       "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -9498,9 +9636,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_support": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -9543,6 +9693,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 22:14:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/faf/byg/jacaranda_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -9792,6 +9948,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/hollow_jacaranda_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 07:49:00 +0000"
@@ -9843,6 +10005,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
@@ -10374,6 +10542,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/environmental/cherry_table": {
     "criteria": {
       "has_planks": "2024-12-24 19:45:35 +0000"
@@ -10641,6 +10815,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 18:54:12 +0000"
     },
     "done": true
   },
