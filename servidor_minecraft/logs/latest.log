@@ -4246,3 +4246,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 21:07:26.596] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
 [26Dec2024 21:07:26.609] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
 [26Dec2024 21:10:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Thrill Shrieker]
+[26Dec2024 21:17:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Swiper, No Swiping!]

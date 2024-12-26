@@ -8493,6 +8493,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "healer_pouch": "2024-12-26 21:17:27 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
       "has_diamond_sword": "2024-12-26 03:38:00 +0000"
@@ -10186,6 +10192,12 @@
   "byg:recipes/byg.byg/jacaranda_planks": {
     "criteria": {
       "has_logs": "2024-12-26 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-26 21:17:27 +0000"
     },
     "done": true
   },
