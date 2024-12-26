@@ -4122,3 +4122,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 18:01:38.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
 [26Dec2024 18:01:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
 [26Dec2024 18:01:38.082] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[26Dec2024 18:05:22.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[26Dec2024 18:05:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[26Dec2024 18:05:22.576] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
