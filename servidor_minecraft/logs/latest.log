@@ -4128,3 +4128,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [26Dec2024 18:14:17.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
 [26Dec2024 18:14:17.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
 [26Dec2024 18:14:17.768] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[26Dec2024 18:35:02.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34fe97bd
+[26Dec2024 18:35:03.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:43161] logged in with entity id 9884 at (715.5374897915143, 206.0, -332.3022109770229)
+[26Dec2024 18:35:03.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[26Dec2024 18:35:03.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[26Dec2024 18:35:03.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[26Dec2024 18:35:03.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[26Dec2024 18:35:03.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[26Dec2024 18:35:03.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[26Dec2024 18:35:03.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[26Dec2024 18:35:03.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[26Dec2024 18:35:03.083] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[26Dec2024 18:35:03.095] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[26Dec2024 18:35:34.684] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18d570f6
+[26Dec2024 18:35:34.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.125.195.41:42669] logged in with entity id 10087 at (240.4257680443105, 70.0, -177.3077881060762)
+[26Dec2024 18:35:34.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[26Dec2024 18:35:34.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[26Dec2024 18:35:34.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[26Dec2024 18:35:34.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[26Dec2024 18:35:34.704] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[26Dec2024 18:35:34.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[26Dec2024 18:35:34.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[26Dec2024 18:35:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[26Dec2024 18:35:34.793] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:35:34.812] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[26Dec2024 18:36:00.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> hola mi amor, estas viendo porno solo enserio?
+[26Dec2024 18:36:07.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nefario99> jajajaja
+[26Dec2024 18:36:12.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nefario99> que haces rey?
+[26Dec2024 18:36:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> toy modo bob el constructor
+[26Dec2024 18:36:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nefario99> yo tambien jaja
+[26Dec2024 18:41:20.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[26Dec2024 18:41:20.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[26Dec2024 18:41:20.084] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:41:25.036] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d70f819
+[26Dec2024 18:41:25.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.125.195.41:53343] logged in with entity id 12011 at (222.73637754048173, 77.0, -167.54925524019853)
+[26Dec2024 18:41:25.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[26Dec2024 18:41:25.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[26Dec2024 18:41:25.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[26Dec2024 18:41:25.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[26Dec2024 18:41:25.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[26Dec2024 18:41:25.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[26Dec2024 18:41:25.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[26Dec2024 18:41:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[26Dec2024 18:41:25.125] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:41:25.133] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[26Dec2024 18:43:18.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: You logged in from another location
+[26Dec2024 18:43:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[26Dec2024 18:43:18.578] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:43:18.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7751d2e1
+[26Dec2024 18:43:18.660] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 18:43:18.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.125.195.41:60597] logged in with entity id 12535 at (222.73637754048173, 77.0, -167.54925524019853)
+[26Dec2024 18:43:18.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[26Dec2024 18:43:18.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[26Dec2024 18:43:18.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[26Dec2024 18:43:18.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[26Dec2024 18:43:18.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[26Dec2024 18:43:18.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[26Dec2024 18:43:18.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[26Dec2024 18:43:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[26Dec2024 18:43:18.729] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[26Dec2024 18:43:18.735] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
