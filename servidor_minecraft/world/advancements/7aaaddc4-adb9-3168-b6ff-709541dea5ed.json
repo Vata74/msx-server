@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 21:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-22 02:53:22 +0000"
@@ -3400,7 +3406,8 @@
       "minecraft:creeper": "2024-12-21 05:40:55 +0000",
       "minecraft:husk": "2024-12-22 02:19:18 +0000",
       "minecraft:zombie": "2024-12-21 02:36:08 +0000",
-      "minecraft:drowned": "2024-12-23 00:18:30 +0000"
+      "minecraft:drowned": "2024-12-23 00:18:30 +0000",
+      "minecraft:zombie_villager": "2024-12-26 21:08:36 +0000"
     },
     "done": false
   },
@@ -3500,6 +3507,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-26 21:10:39 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/embur_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-23 02:12:34 +0000"
@@ -3563,6 +3576,12 @@
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2024-12-21 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-26 21:10:39 +0000"
     },
     "done": true
   },
@@ -4784,6 +4803,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-26 21:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2024-12-24 07:11:20 +0000"
@@ -5781,6 +5806,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-26 21:09:51 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
@@ -6192,6 +6223,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 22:25:44 +0000"
+    },
+    "done": true
+  },
+  "sculked:thrill_shrieker": {
+    "criteria": {
+      "thrill_shrieker": "2024-12-26 21:10:41 +0000"
     },
     "done": true
   },
@@ -8468,6 +8505,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-26 21:03:25 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence_gate": {
     "criteria": {
       "has_bamboo": "2024-12-21 02:11:40 +0000",
@@ -9516,6 +9559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 21:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:24 +0000"
@@ -10200,6 +10249,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-26 21:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-23 01:15:49 +0000"
@@ -10323,6 +10378,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_smoker": "2024-12-25 20:24:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_planter_box": {
+    "criteria": {
+      "has_slab": "2024-12-26 21:09:51 +0000"
     },
     "done": true
   },
@@ -10737,6 +10798,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 22:25:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-26 21:08:51 +0000"
     },
     "done": true
   },
