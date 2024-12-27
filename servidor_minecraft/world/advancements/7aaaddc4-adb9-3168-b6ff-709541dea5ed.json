@@ -3654,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-27 23:39:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/quartz_tiles_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-27 01:21:47 +0000"
