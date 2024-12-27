@@ -19552,3 +19552,31 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 03:47:31.681] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [27Dec2024 03:47:48.537] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/191847, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
 [27Dec2024 03:47:49.336] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/191932, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[27Dec2024 03:49:24.134] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/193195, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[27Dec2024 03:49:25.134] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/193234, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 03:49:27.135] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/193308, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[27Dec2024 03:49:28.136] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/193366, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3264.50, removed=DISCARDED].
+[27Dec2024 03:50:51.431] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 03:50:51.431] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 03:52:07.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:52:07.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:54:11.731] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 03:54:34.834] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/196677, l='ServerLevel[world]', x=-1030.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 03:54:35.835] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/196709, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 03:55:50.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[27Dec2024 03:55:50.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[27Dec2024 03:55:54.835] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/197618, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 03:55:55.836] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/197655, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[27Dec2024 03:56:40.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> vatinha
+[27Dec2024 03:56:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> q
+[27Dec2024 03:57:05.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> sabes si alguno tiene una granja de xp? o sino cual me recomendas hacer
+[27Dec2024 03:57:07.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:57:07.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:57:11.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> si hay
+[27Dec2024 03:57:19.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> xaero-waypoint:granja de raid:g:-1036:65:3267:7:false:0:Internal-overworld-waypoints
+[27Dec2024 03:57:31.731] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 03:57:35.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> muchas gracias estimado
+[27Dec2024 03:58:27.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/main_1
+[27Dec2024 03:58:27.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_1
+[27Dec2024 03:58:27.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_1
+[27Dec2024 03:58:27.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
