@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-27 01:34:56 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 23:09:38 +0000"
@@ -642,6 +648,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/chocolate_wafer": {
+    "criteria": {
+      "has_maze_wafer": "2024-12-27 01:40:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "hedge_spider": "2024-12-26 19:31:45 +0000"
@@ -699,6 +711,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-22 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-12-27 01:36:17 +0000"
     },
     "done": true
   },
@@ -820,6 +838,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 00:12:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-12-27 01:36:17 +0000"
     },
     "done": true
   },
@@ -2510,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-27 01:34:20 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 22:57:20 +0000"
@@ -3168,6 +3198,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-21 23:39:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-27 01:40:51 +0000"
     },
     "done": true
   },
@@ -6377,15 +6413,15 @@
     },
     "done": true
   },
-  "delightful:recipes/knives/knightmetal_knife": {
-    "criteria": {
-      "has_knightmetal": "2024-12-27 01:17:53 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/wood/canopy_chest": {
     "criteria": {
       "has_item": "2024-12-27 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -6467,15 +6503,15 @@
     },
     "done": true
   },
-  "twilightdelight:recipes/tab.twilightdelight/torchberries_crate": {
-    "criteria": {
-      "has_torchberries": "2024-12-27 01:21:17 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/wood/canopy_slab": {
     "criteria": {
       "has_item": "2024-12-27 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 01:21:17 +0000"
     },
     "done": true
   },
@@ -8756,6 +8792,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 01:33:03 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
@@ -9153,6 +9195,12 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-27 01:34:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 23:50:17 +0000"
@@ -9222,6 +9270,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-25 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-27 01:34:20 +0000"
     },
     "done": true
   },
@@ -9778,6 +9832,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2024-12-24 19:27:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 01:40:51 +0000"
     },
     "done": true
   },
@@ -11103,6 +11163,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-27 01:34:20 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_sign": {
     "criteria": {
       "has_planks": "2024-12-26 18:54:12 +0000"
@@ -11232,6 +11298,12 @@
   "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 23:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-27 01:34:20 +0000"
     },
     "done": true
   },

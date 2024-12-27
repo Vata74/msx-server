@@ -4197,3 +4197,56 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 01:23:42.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3221ms or 64 ticks behind
 [27Dec2024 01:25:23.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
 [27Dec2024 01:25:53.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Tooth Fairy]
+[27Dec2024 01:31:45.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:34:20.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Into Fire]
+[27Dec2024 01:34:56.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36489ms or 729 ticks behind
+[27Dec2024 01:34:56.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[27Dec2024 01:34:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[27Dec2024 01:34:56.917] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[27Dec2024 01:34:56.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[27Dec2024 01:34:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[27Dec2024 01:34:56.948] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[27Dec2024 01:34:56.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[27Dec2024 01:34:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[27Dec2024 01:34:56.988] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:34:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[27Dec2024 01:34:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[27Dec2024 01:35:01.875] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@289cb82
+[27Dec2024 01:35:01.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.128.224.243:33295] logged in with entity id 119113 at (1053.137499988079, -23.0, 1599.1598133744692)
+[27Dec2024 01:35:01.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[27Dec2024 01:35:01.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[27Dec2024 01:35:01.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[27Dec2024 01:35:01.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[27Dec2024 01:35:01.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[27Dec2024 01:35:01.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[27Dec2024 01:35:01.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[27Dec2024 01:35:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[27Dec2024 01:35:02.025] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[27Dec2024 01:35:02.043] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[27Dec2024 01:35:11.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ca2b15d
+[27Dec2024 01:35:11.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.175.169.123:60309] logged in with entity id 119127 at (495.69999998807907, 188.0, 538.512720525119)
+[27Dec2024 01:35:11.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[27Dec2024 01:35:11.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[27Dec2024 01:35:11.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[27Dec2024 01:35:11.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[27Dec2024 01:35:11.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[27Dec2024 01:35:11.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[27Dec2024 01:35:11.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[27Dec2024 01:35:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[27Dec2024 01:35:11.124] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:35:11.129] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 01:35:14.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[27Dec2024 01:35:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[27Dec2024 01:35:14.860] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:41:32.608] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@434b592a
+[27Dec2024 01:41:32.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maggie_[/127.0.244.105:53295] logged in with entity id 119976 at (340.3329573704432, 71.01391554283991, -259.42131024110034)
+[27Dec2024 01:41:32.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to maggie_
+[27Dec2024 01:41:32.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to maggie_
+[27Dec2024 01:41:32.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to maggie_
+[27Dec2024 01:41:32.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to maggie_
+[27Dec2024 01:41:32.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to maggie_
+[27Dec2024 01:41:32.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to maggie_
+[27Dec2024 01:41:32.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to maggie_
+[27Dec2024 01:41:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ joined the game
+[27Dec2024 01:41:32.728] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e597916-2c20-3491-925e-6a991b05400c
+[27Dec2024 01:41:32.746] [Server thread/INFO] [Jade/]: Syncing config to maggie_ (7e597916-2c20-3491-925e-6a991b05400c)
