@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-27 01:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 21:06:49 +0000"
@@ -3490,8 +3496,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-27 01:19:13 +0000",
       "minecraft:skeleton": "2024-12-21 03:55:07 +0000",
       "windswept:chilled": "2024-12-22 23:40:06 +0000",
+      "minecraft:vindicator": "2024-12-27 01:19:27 +0000",
       "minecraft:spider": "2024-12-22 23:12:56 +0000",
       "minecraft:creeper": "2024-12-21 05:40:55 +0000",
       "minecraft:husk": "2024-12-22 02:19:18 +0000",

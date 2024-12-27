@@ -373,9 +373,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-27 00:55:33 +0000"
+      "kill_lich": "2024-12-27 00:55:33 +0000",
+      "trophy_pedestal": "2024-12-27 01:06:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -476,6 +477,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/twilightforest/maze_wafer": {
+    "criteria": {
+      "has_liveroot": "2024-12-27 01:19:34 +0000"
     },
     "done": true
   },
@@ -930,6 +937,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "sculked:sculked_root": {
     "criteria": {
       "sculked_root": "2024-12-21 23:36:53 +0000"
@@ -1215,6 +1228,12 @@
   "stoneworks:recipes/stoneworks.main/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-26 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2024-12-27 01:06:33 +0000"
     },
     "done": true
   },
@@ -1660,6 +1679,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_log": "2024-12-27 00:23:15 +0000",
+      "liveroot": "2024-12-27 01:19:34 +0000",
       "twilight_oak_sapling": "2024-12-27 00:23:15 +0000",
       "canopy_planks": "2024-12-27 00:24:04 +0000",
       "canopy_log": "2024-12-27 00:23:20 +0000",
@@ -1847,6 +1867,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-21 23:40:11 +0000"
@@ -1886,6 +1912,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-22 20:11:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -2093,6 +2125,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:35:04 +0000"
@@ -2169,6 +2207,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal_ingot": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -2815,6 +2859,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-26 02:35:45 +0000"
@@ -2971,6 +3021,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_left": {
     "criteria": {
       "has_item": "2024-12-27 00:38:39 +0000"
@@ -3016,6 +3072,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 23:50:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -3710,6 +3772,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/maze_stove": {
+    "criteria": {
+      "has_knightmetal_ingot": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2024-12-26 02:25:59 +0000"
@@ -3959,6 +4027,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -4430,6 +4504,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 01:15:07 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:ancient_cities": {
     "criteria": {
       "in_ancient_city_ocean": "2024-12-26 02:28:33 +0000"
@@ -4475,6 +4555,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/thousand_plant_stew": {
+    "criteria": {
+      "has_liveroot": "2024-12-27 01:19:34 +0000"
     },
     "done": true
   },
@@ -4858,6 +4944,12 @@
       "has_basalt": "2024-12-22 22:12:11 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-27 01:14:57 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
@@ -6249,6 +6341,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/canopy_chest": {
     "criteria": {
       "has_item": "2024-12-27 00:24:03 +0000"
@@ -6492,6 +6590,19 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-21 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2024-12-27 01:14:57 +0000",
+      "previous_progression": "2024-12-27 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/twilightforest/raw_ironwood": {
+    "criteria": {
+      "has_liveroot": "2024-12-27 01:19:34 +0000"
     },
     "done": true
   },
@@ -6814,6 +6925,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2024-12-27 01:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-22 21:41:43 +0000"
@@ -6865,6 +6982,12 @@
   "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-22 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:06:51 +0000"
     },
     "done": true
   },
@@ -7177,6 +7300,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 23:28:43 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/phytochemical_juice": {
+    "criteria": {
+      "has_liveroot": "2024-12-27 01:19:34 +0000"
     },
     "done": true
   },
@@ -8482,6 +8611,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:02 +0000"
@@ -9713,6 +9848,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/material/blasted_ironwood_ingot": {
     "criteria": {
       "has_item": "2024-12-27 00:30:15 +0000"
@@ -10197,6 +10338,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2024-12-26 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 01:17:53 +0000"
     },
     "done": true
   },
@@ -10830,6 +10977,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-12-27 01:08:38 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-24 03:23:37 +0000"
@@ -10977,6 +11130,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-21 23:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2024-12-27 01:06:51 +0000"
     },
     "done": true
   },

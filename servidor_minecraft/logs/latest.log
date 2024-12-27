@@ -4111,3 +4111,84 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 01:07:43.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-12, z=469} BlockPos{x=746, y=-12, z=470}
 [27Dec2024 01:08:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [With Fire It Writes]
 [27Dec2024 01:09:42.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=850, y=-21, z=511} BlockPos{x=850, y=-22, z=512}
+[27Dec2024 01:10:51.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[27Dec2024 01:10:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[27Dec2024 01:10:51.052] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:13:05.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6902ms or 138 ticks behind
+[27Dec2024 01:13:30.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29f7cf47
+[27Dec2024 01:13:30.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.175.169.123:41659] logged in with entity id 101213 at (885.1166392517731, -26.0, 450.8421289014788)
+[27Dec2024 01:13:30.505] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[27Dec2024 01:13:30.505] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[27Dec2024 01:13:30.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[27Dec2024 01:13:30.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[27Dec2024 01:13:30.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[27Dec2024 01:13:30.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[27Dec2024 01:13:30.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[27Dec2024 01:13:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[27Dec2024 01:13:30.578] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:13:30.594] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 01:13:37.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[27Dec2024 01:13:49.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=858, y=-27, z=459} BlockPos{x=858, y=-27, z=460}
+[27Dec2024 01:14:15.045] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[27Dec2024 01:14:15.048] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[27Dec2024 01:14:15.048] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[27Dec2024 01:14:15.048] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[27Dec2024 01:14:19.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=857, y=-18, z=476} BlockPos{x=858, y=-16, z=476}
+[27Dec2024 01:14:28.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=878, y=-14, z=451} BlockPos{x=876, y=-14, z=451}
+[27Dec2024 01:14:28.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=-15, z=451} BlockPos{x=877, y=-14, z=452}
+[27Dec2024 01:14:29.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=-15, z=451} BlockPos{x=878, y=-14, z=452}
+[27Dec2024 01:14:31.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=880, y=-11, z=453} BlockPos{x=880, y=-12, z=452}
+[27Dec2024 01:14:33.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=884, y=-13, z=453} BlockPos{x=881, y=-12, z=453}
+[27Dec2024 01:14:35.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=-12, z=455} BlockPos{x=886, y=-12, z=455}
+[27Dec2024 01:14:37.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=885, y=-12, z=455} BlockPos{x=887, y=-13, z=461}
+[27Dec2024 01:14:37.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=-13, z=459} BlockPos{x=888, y=-12, z=459}
+[27Dec2024 01:14:41.888] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[27Dec2024 01:14:41.888] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[27Dec2024 01:14:57.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Carminite Acclimation]
+[27Dec2024 01:15:43.979] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[27Dec2024 01:15:43.979] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[27Dec2024 01:15:43.980] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[27Dec2024 01:15:55.176] [Server thread/ERROR] [net.minecraft.world.level.block.entity.BlockEntity/]: Failed to create block entity minecraft:banner
+java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock cannot be cast to class net.minecraft.world.level.block.AbstractBannerBlock (net.minecraft.world.level.block.AirBlock and net.minecraft.world.level.block.AbstractBannerBlock are in module minecraft@1.19.2 of loader 'TRANSFORMER' @6ffdbeef)
+	at net.minecraft.world.level.block.entity.BannerBlockEntity.<init>(BannerBlockEntity.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.block.entity.BlockEntityType.m_155264_(BlockEntityType.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.block.entity.BlockEntity.m_155236_(BlockEntity.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.world.level.block.entity.BlockEntity.m_155241_(BlockEntity.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62870_(LevelChunk.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_5685_(LevelChunk.java:298) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_7702_(LevelChunk.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:504) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:724) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:723) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:535) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:543) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:267) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:751) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Dec2024 01:15:55.179] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id minecraft:banner
+[27Dec2024 01:15:55.179] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=25, y=-36, z=-2101}
+[27Dec2024 01:16:29.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=-16, z=528} BlockPos{x=770, y=-15, z=529}
+[27Dec2024 01:16:30.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=-13, z=534} BlockPos{x=770, y=-12, z=533}
+[27Dec2024 01:17:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Carminite Acclimation]
+[27Dec2024 01:18:26.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [You Are A Pirate]
+[27Dec2024 01:19:35.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-14, z=558} BlockPos{x=847, y=-11, z=554}
+[27Dec2024 01:19:40.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-9, z=549} BlockPos{x=847, y=-9, z=550}
+[27Dec2024 01:19:41.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-8, z=545} BlockPos{x=847, y=-8, z=546}
+[27Dec2024 01:19:41.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-8, z=545} BlockPos{x=847, y=-8, z=547}
+[27Dec2024 01:19:59.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-7, z=542} BlockPos{x=847, y=-6, z=543}
+[27Dec2024 01:19:59.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-7, z=542} BlockPos{x=847, y=-2, z=542}
+[27Dec2024 01:19:59.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-7, z=542} BlockPos{x=847, y=-2, z=541}
+[27Dec2024 01:20:01.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-3, z=540} BlockPos{x=847, y=-2, z=539}
+[27Dec2024 01:20:05.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=849, y=3, z=536} BlockPos{x=850, y=4, z=536}
+[27Dec2024 01:21:07.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
