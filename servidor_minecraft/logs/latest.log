@@ -4312,3 +4312,25 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 02:52:45.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
 [27Dec2024 02:52:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
 [27Dec2024 02:52:45.592] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 02:57:08.213] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40510401
+[27Dec2024 02:57:08.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:57223] logged in with entity id 161073 at (-188.7680421785862, 69.0, -2981.512173121742)
+[27Dec2024 02:57:08.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[27Dec2024 02:57:08.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[27Dec2024 02:57:08.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[27Dec2024 02:57:08.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[27Dec2024 02:57:08.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[27Dec2024 02:57:08.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[27Dec2024 02:57:08.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[27Dec2024 02:57:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[27Dec2024 02:57:08.283] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[27Dec2024 02:57:08.290] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[27Dec2024 02:58:25.183] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/162523, l='ServerLevel[world]', x=-184.50, y=77.00, z=-2977.50]
+[27Dec2024 02:59:23.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/162706, l='ServerLevel[world]', x=-144.50, y=74.00, z=-3014.50]
+[27Dec2024 02:59:35.183] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/162743, l='ServerLevel[world]', x=-182.50, y=77.00, z=-2976.50]
+[27Dec2024 03:00:07.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/162950, l='ServerLevel[world]', x=-179.50, y=71.00, z=-3005.50]
+[27Dec2024 03:00:15.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/162970, l='ServerLevel[world]', x=-183.50, y=77.00, z=-2975.50]
+[27Dec2024 03:00:37.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/163035, l='ServerLevel[world]', x=-180.50, y=71.00, z=-3003.50]
+[27Dec2024 03:03:06.133] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/164987, l='ServerLevel[world]', x=-184.50, y=77.00, z=-2975.50]
+[27Dec2024 03:03:47.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165224, l='ServerLevel[world]', x=-179.50, y=79.00, z=-2962.50]
+[27Dec2024 03:04:49.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165384, l='ServerLevel[world]', x=-182.50, y=77.00, z=-2977.50]
+[27Dec2024 03:05:40.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165557, l='ServerLevel[world]', x=-181.50, y=71.00, z=-3003.50]
