@@ -1298,9 +1298,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2024-12-27 02:18:35 +0000",
       "kill_lich": "2024-12-27 00:59:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
@@ -2046,6 +2047,7 @@
       "twilight_oak_sapling": "2024-12-27 00:30:23 +0000",
       "twilight_oak_stairs": "2024-12-27 01:57:37 +0000",
       "encased_towerwood": "2024-12-27 01:23:50 +0000",
+      "mangrove_chest": "2024-12-27 02:07:28 +0000",
       "twilight_oak_slab": "2024-12-27 01:57:29 +0000",
       "canopy_log": "2024-12-27 00:30:19 +0000",
       "towerwood": "2024-12-27 01:23:48 +0000",
@@ -2137,6 +2139,12 @@
       "has_string": "2024-12-21 22:51:48 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2024-12-27 02:18:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
     "criteria": {
@@ -2739,6 +2747,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/green_dye_from_baking": {
+    "criteria": {
+      "has_cactus": "2024-12-27 02:14:30 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/light_gray_terracotta_bricks_from_light_gray_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -3057,6 +3071,13 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2024-12-27 02:18:35 +0000",
+      "maze_wafer": "2024-12-27 02:10:05 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/stoneworks.main/sandstone_shingles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-25 03:35:23 +0000"
@@ -3162,6 +3183,12 @@
   "blue_skies:recipes/blue_skies_tools/ventium_shears": {
     "criteria": {
       "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-27 02:02:01 +0000"
     },
     "done": true
   },
@@ -3991,6 +4018,12 @@
   "woodworks:recipes/decorations/birch_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-27 02:02:01 +0000"
     },
     "done": true
   },
@@ -5144,6 +5177,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-27 02:14:30 +0000"
     },
     "done": true
   },
@@ -7992,6 +8031,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/meef_wrap": {
+    "criteria": {
+      "has_raw_meef": "2024-12-27 02:02:01 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-25 05:36:14 +0000"
@@ -9921,6 +9966,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-27 02:18:35 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/polished_bloodstone_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 00:09:42 +0000"
@@ -10507,6 +10558,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_barrel": "2024-12-26 00:16:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 02:18:24 +0000"
     },
     "done": true
   },
@@ -13648,6 +13705,12 @@
   "stoneworks:recipes/stoneworks.main/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-27 02:02:01 +0000"
     },
     "done": true
   },
