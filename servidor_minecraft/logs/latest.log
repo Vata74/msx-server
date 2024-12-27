@@ -4046,3 +4046,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 05:36:38.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
 [27Dec2024 05:36:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
 [27Dec2024 05:36:38.258] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[27Dec2024 05:48:07.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f47fca4
+[27Dec2024 05:48:07.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAN9IRV018[/127.216.147.106:50155] logged in with entity id 8666 at (589.6999999880791, 66.0, -299.30000001192093)
+[27Dec2024 05:48:07.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to IAN9IRV018
+[27Dec2024 05:48:07.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to IAN9IRV018
+[27Dec2024 05:48:07.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to IAN9IRV018
+[27Dec2024 05:48:07.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to IAN9IRV018
+[27Dec2024 05:48:07.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to IAN9IRV018
+[27Dec2024 05:48:07.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to IAN9IRV018
+[27Dec2024 05:48:07.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to IAN9IRV018
+[27Dec2024 05:48:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
+[27Dec2024 05:48:07.938] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[27Dec2024 05:48:07.947] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
