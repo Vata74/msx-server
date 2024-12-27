@@ -122,6 +122,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-27 05:12:08 +0000"
@@ -137,6 +143,12 @@
   "vinery:basket": {
     "criteria": {
       "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -254,6 +266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:24 +0000"
@@ -368,6 +386,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-21 04:54:45 +0000"
@@ -431,6 +455,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -617,6 +647,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-22 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -1142,6 +1178,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:23 +0000"
@@ -1157,6 +1199,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -1778,6 +1826,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/emerald_magnum_torch": {
     "criteria": {
       "has_emerald": "2024-12-24 02:15:50 +0000"
@@ -1871,6 +1925,12 @@
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -3062,6 +3122,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-22 02:05:52 +0000"
@@ -3369,6 +3435,12 @@
     },
     "done": true
   },
+  "vinery:dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2024-12-21 05:05:45 +0000"
@@ -3555,6 +3627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:23 +0000"
@@ -3585,6 +3663,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 04:52:33 +0000"
@@ -3606,6 +3690,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-24 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -4416,6 +4506,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2024-12-21 05:25:50 +0000"
@@ -4707,6 +4803,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -5464,6 +5566,12 @@
     },
     "done": true
   },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_bookshelf": {
     "criteria": {
       "has_planks": "2024-12-24 04:14:04 +0000"
@@ -5606,6 +5714,12 @@
   "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -5855,9 +5969,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-22 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -5906,6 +6032,12 @@
   "stoneworks:recipes/stoneworks.main/granite_paver_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
@@ -6038,6 +6170,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2024-12-27 05:56:02 +0000",
       "wheat": "2024-12-24 04:10:48 +0000",
       "carrot": "2024-12-24 07:11:38 +0000"
     },
@@ -6547,6 +6680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_sign_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-21 05:19:48 +0000"
@@ -6838,6 +6977,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-21 05:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:53:52 +0000"
     },
     "done": true
   },
