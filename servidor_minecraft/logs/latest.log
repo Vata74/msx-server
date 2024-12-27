@@ -4079,3 +4079,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 23:46:03.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
 [27Dec2024 23:46:03.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
 [27Dec2024 23:46:03.607] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[27Dec2024 23:49:37.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17bd5ab1
+[27Dec2024 23:49:37.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:43165] logged in with entity id 28809 at (558.1569896418671, 65.0, -415.874797508157)
+[27Dec2024 23:49:37.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[27Dec2024 23:49:37.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[27Dec2024 23:49:37.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[27Dec2024 23:49:37.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[27Dec2024 23:49:37.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[27Dec2024 23:49:37.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[27Dec2024 23:49:37.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[27Dec2024 23:49:37.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[27Dec2024 23:49:37.117] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[27Dec2024 23:49:37.125] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
