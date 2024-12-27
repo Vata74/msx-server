@@ -1560,6 +1560,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-27 04:06:45 +0000"
+    },
+    "done": false
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:54 +0000"
@@ -3097,6 +3103,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-27 04:04:31 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/cracked_nether_bricks_from_baking": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 01:28:13 +0000"
@@ -4430,6 +4442,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-21 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-27 04:06:17 +0000"
     },
     "done": true
   },
@@ -6978,6 +6996,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-27 04:06:45 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/wisteria_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -8456,6 +8480,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-27 04:04:31 +0000"
     },
     "done": true
   },

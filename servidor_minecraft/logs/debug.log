@@ -19580,3 +19580,49 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 03:58:27.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_1
 [27Dec2024 03:58:27.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_1
 [27Dec2024 03:58:27.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[27Dec2024 04:00:51.481] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 04:00:51.481] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 04:01:42.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 04:02:07.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:02:07.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:02:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> xaero-waypoint:granjarda:g:26:-49:-46:1:false:0:Internal-overworld-waypoints
+[27Dec2024 04:02:43.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> esa es granja de esqueletos
+[27Dec2024 04:02:51.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> okay
+[27Dec2024 04:03:11.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> estoy en la de raid, como funca? xq creo q no subí hasta arriba y nose q hacer
+[27Dec2024 04:03:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> voy
+[27Dec2024 04:03:40.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 04:03:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> subi
+[27Dec2024 04:04:05.684] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/203794, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 04:04:06.684] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/203860, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 04:04:11.781] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 04:04:18.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> ponete aca
+[27Dec2024 04:04:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Cover Me with Diamonds]
+[27Dec2024 04:04:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> me pegan loco
+[27Dec2024 04:04:41.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> no te agaches
+[27Dec2024 04:05:11.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> una vez mueran todos tenes que bajar
+[27Dec2024 04:05:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y matar si queda alguno
+[27Dec2024 04:05:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> ah okay
+[27Dec2024 04:05:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y se empieza de nuevo
+[27Dec2024 04:05:25.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y volves a subir
+[27Dec2024 04:05:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> aca
+[27Dec2024 04:05:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> aca mira
+[27Dec2024 04:06:03.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> empieza de nuevo
+[27Dec2024 04:06:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> y ese furro?
+[27Dec2024 04:06:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> subi
+[27Dec2024 04:06:13.887] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/205081, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 04:06:14.687] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/205128, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 04:06:17.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has completed the challenge [Hero of the Village]
+[27Dec2024 04:06:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [World of illusion]
+[27Dec2024 04:07:07.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:07:07.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:07:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> un creeper loco
+[27Dec2024 04:07:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> ponete los totem
+[27Dec2024 04:07:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> en los amuletos
+[27Dec2024 04:07:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> oka
+[27Dec2024 04:07:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> para no morir
+[27Dec2024 04:07:31.781] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 04:07:40.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y en la segunda mano
+[27Dec2024 04:07:56.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has reached the goal [Postmortal]
+[27Dec2024 04:08:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> ta
+[27Dec2024 04:08:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> locuron
+[27Dec2024 04:09:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> gracias x el tuto
