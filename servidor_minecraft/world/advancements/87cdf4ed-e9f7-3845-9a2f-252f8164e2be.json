@@ -1190,6 +1190,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2024-12-27 06:48:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
@@ -1409,6 +1415,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_from_wood_planks": {
     "criteria": {
       "has_item": "2024-12-27 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2024-12-27 06:48:22 +0000"
     },
     "done": true
   },
@@ -3015,6 +3027,12 @@
   "woodworks:recipes/redstone/spruce_pressure_plate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-21 05:19:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2024-12-27 06:48:22 +0000"
     },
     "done": true
   },
