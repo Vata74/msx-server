@@ -18163,3 +18163,22 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 01:54:11.131] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
 [27Dec2024 01:54:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Tears of Fire]
 [27Dec2024 01:55:29.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:56:14.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:56:55.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:56:55.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:57:31.131] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 01:58:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has completed the challenge [Breaking the Maze]
+[27Dec2024 02:00:50.881] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 02:00:50.881] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 02:01:36.611] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=81, z=-261}) reached max scan size of 500
+[27Dec2024 02:01:37.690] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=80, z=-261}) reached max scan size of 500
+[27Dec2024 02:01:43.098] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=80, z=-262}) reached max scan size of 500
+[27Dec2024 02:01:44.406] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=81, z=-262}) reached max scan size of 500
+[27Dec2024 02:01:49.998] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=81, z=-260}) reached max scan size of 500
+[27Dec2024 02:01:51.062] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=80, z=-260}) reached max scan size of 500
+[27Dec2024 02:01:55.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 02:01:55.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 02:04:11.181] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 02:04:46.178] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=343, y=86, z=-267}) doesn't have enough leaves around top most log
+[27Dec2024 02:05:48.014] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=84, z=-267}) doesn't have enough leaves around top most log
+[27Dec2024 02:05:49.066] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=341, y=85, z=-267}) doesn't have enough leaves around top most log

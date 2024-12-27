@@ -4272,3 +4272,5 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 01:53:25.410] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
 [27Dec2024 01:54:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Tears of Fire]
 [27Dec2024 01:55:29.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:56:14.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:58:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has completed the challenge [Breaking the Maze]

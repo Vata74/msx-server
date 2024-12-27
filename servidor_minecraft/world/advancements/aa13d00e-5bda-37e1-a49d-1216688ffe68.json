@@ -774,6 +774,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-12-27 01:58:38 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_fence_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
@@ -867,6 +873,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-12-27 01:58:38 +0000"
     },
     "done": true
   },
@@ -1061,6 +1073,12 @@
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2024-12-27 01:54:50 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
@@ -2024,8 +2042,11 @@
       "twilight_oak_log": "2024-12-27 00:30:22 +0000",
       "dark_log": "2024-12-27 01:21:16 +0000",
       "mossy_towerwood": "2024-12-27 01:26:08 +0000",
+      "canopy_stairs": "2024-12-27 01:57:32 +0000",
       "twilight_oak_sapling": "2024-12-27 00:30:23 +0000",
+      "twilight_oak_stairs": "2024-12-27 01:57:37 +0000",
       "encased_towerwood": "2024-12-27 01:23:50 +0000",
+      "twilight_oak_slab": "2024-12-27 01:57:29 +0000",
       "canopy_log": "2024-12-27 00:30:19 +0000",
       "towerwood": "2024-12-27 01:23:48 +0000",
       "canopy_sapling": "2024-12-27 00:33:13 +0000",
@@ -2546,6 +2567,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:52:03 +0000"
     },
     "done": true
   },
@@ -5018,6 +5045,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_reactor": {
+    "criteria": {
+      "has_item": "2024-12-27 01:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_blue_dye": "2024-12-22 00:59:54 +0000"
@@ -5156,6 +5189,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2024-12-21 21:57:20 +0000"
@@ -5231,6 +5270,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-22 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
     },
     "done": true
   },
@@ -5405,6 +5450,12 @@
   "woodworks:recipes/decorations/spruce_leaf_pile": {
     "criteria": {
       "has_spruce_leaves": "2024-12-24 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 01:54:57 +0000"
     },
     "done": true
   },
@@ -5901,6 +5952,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
@@ -6078,9 +6135,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-12-27 01:17:33 +0000"
+      "previous_progression": "2024-12-27 01:17:33 +0000",
+      "ghast": "2024-12-27 01:54:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
@@ -6133,6 +6191,12 @@
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2024-12-27 01:58:23 +0000"
     },
     "done": true
   },
@@ -7736,6 +7800,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -8716,6 +8786,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:16:30 +0000"
@@ -9493,6 +9569,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-23 00:48:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-27 01:57:29 +0000"
     },
     "done": true
   },
@@ -10349,6 +10431,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/purple_sheet_single": {
     "criteria": {
       "has_sheet": "2024-12-24 16:20:11 +0000"
@@ -10581,6 +10669,12 @@
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2024-12-22 03:35:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 01:54:57 +0000"
     },
     "done": true
   },
@@ -12338,6 +12432,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_builder": {
+    "criteria": {
+      "has_item": "2024-12-27 01:52:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tf/byg/hollow_jacaranda_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -13248,6 +13348,12 @@
   "woodworks:recipes/decorations/oak_leaf_pile": {
     "criteria": {
       "has_oak_leaves": "2024-12-24 16:54:11 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/tear_drink": {
+    "criteria": {
+      "has_fiery_tears": "2024-12-27 01:54:57 +0000"
     },
     "done": true
   },
