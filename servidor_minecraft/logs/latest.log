@@ -4298,3 +4298,12 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 02:23:38.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
 [27Dec2024 02:26:04.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
 [27Dec2024 02:26:05.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 02:26:24.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Hydra Slayer]
+[27Dec2024 02:28:01.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 02:28:02.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 02:29:36.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12391ms or 247 ticks behind
+[27Dec2024 02:29:53.223] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[27Dec2024 02:29:53.224] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[27Dec2024 02:29:53.224] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[27Dec2024 02:31:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> asd
+[27Dec2024 02:35:50.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> #nasi
