@@ -16343,3 +16343,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 06:30:52.497] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [27Dec2024 06:30:57.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 06:30:57.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 06:34:12.647] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 06:35:57.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 06:35:57.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 06:36:19.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/pathway
+[27Dec2024 06:36:19.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_duct
+[27Dec2024 06:36:19.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_fire
+[27Dec2024 06:36:19.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding
+[27Dec2024 06:36:19.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding_decayed
+[27Dec2024 06:36:19.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall
+[27Dec2024 06:36:19.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_decayed
+[27Dec2024 06:36:19.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner
+[27Dec2024 06:36:19.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_decayed
+[27Dec2024 06:36:19.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner
+[27Dec2024 06:36:19.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner_decayed
+[27Dec2024 06:37:32.597] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 06:40:52.547] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 06:40:52.547] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 06:40:57.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 06:40:57.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

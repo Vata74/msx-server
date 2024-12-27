@@ -1880,6 +1880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-27 06:37:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -2742,6 +2748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 06:35:29 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-12-21 05:45:24 +0000"
@@ -2955,6 +2967,12 @@
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2024-12-24 07:04:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-27 06:37:01 +0000"
     },
     "done": true
   },
@@ -3624,6 +3642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-27 06:37:01 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-12-24 05:56:43 +0000"
@@ -3682,6 +3706,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-27 06:37:00 +0000"
     },
     "done": true
   },
@@ -3961,9 +3991,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-27 06:37:01 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/glow_flare": {
     "criteria": {
       "has_copper_ingot": "2024-12-27 05:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 06:35:29 +0000"
     },
     "done": true
   },
@@ -4388,6 +4430,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2024-12-27 06:35:29 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
@@ -4519,6 +4567,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-12-22 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-27 06:37:00 +0000"
     },
     "done": true
   },
@@ -5324,6 +5378,12 @@
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2024-12-22 04:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-27 06:37:01 +0000"
     },
     "done": true
   },
@@ -6795,6 +6855,12 @@
   "incubation:recipes/food/fried_egg": {
     "criteria": {
       "has_eggs": "2024-12-24 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-27 06:37:01 +0000"
     },
     "done": true
   },
