@@ -15928,3 +15928,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 05:25:57.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 05:25:57.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 05:27:32.247] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 05:30:52.197] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 05:30:52.197] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 05:30:57.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:30:57.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:34:12.347] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 05:35:57.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:35:57.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:36:38.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[27Dec2024 05:36:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[27Dec2024 05:36:38.258] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[27Dec2024 05:37:32.297] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
