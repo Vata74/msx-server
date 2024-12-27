@@ -16345,3 +16345,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 01:00:01.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
 [27Dec2024 01:00:01.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=56, z=1030} BlockPos{x=799, y=57, z=1030}
 [27Dec2024 01:00:20.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=7, z=1035} BlockPos{x=793, y=7, z=1035}
+[27Dec2024 01:00:50.631] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 01:00:50.631] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 01:00:57.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:00:57.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:01:31.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[27Dec2024 01:01:58.771] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[27Dec2024 01:01:58.774] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[27Dec2024 01:02:05.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Dec2024 01:02:16.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12d68d6
+[27Dec2024 01:03:05.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=0, z=526} BlockPos{x=832, y=1, z=526}
+[27Dec2024 01:03:24.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Trophied Champion]
+[27Dec2024 01:03:46.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[27Dec2024 01:04:01.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/88254, l='ServerLevel[world]', x=-536.50, y=78.00, z=-3006.50]
+[27Dec2024 01:04:01.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[27Dec2024 01:04:10.942] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 01:04:11.405] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[27Dec2024 01:04:11.406] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[27Dec2024 01:05:17.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=852, y=-17, z=498} BlockPos{x=853, y=-18, z=499}
+[27Dec2024 01:05:59.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:05:59.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:06:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Trophied Champion]
+[27Dec2024 01:06:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> zzz
+[27Dec2024 01:07:03.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=-5, z=448} BlockPos{x=825, y=-6, z=450}
+[27Dec2024 01:07:05.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=-9, z=448} BlockPos{x=825, y=-9, z=445}
+[27Dec2024 01:07:05.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=-9, z=448} BlockPos{x=825, y=-9, z=445}
+[27Dec2024 01:07:20.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-18, z=463} BlockPos{x=786, y=-18, z=463}
+[27Dec2024 01:07:30.881] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 01:07:34.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-16, z=483} BlockPos{x=745, y=-17, z=483}
+[27Dec2024 01:07:34.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-16, z=483} BlockPos{x=745, y=-17, z=483}
+[27Dec2024 01:07:34.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-16, z=483} BlockPos{x=745, y=-17, z=483}
+[27Dec2024 01:07:34.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-16, z=483} BlockPos{x=745, y=-17, z=483}
+[27Dec2024 01:07:37.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-14, z=478} BlockPos{x=746, y=-15, z=474}
+[27Dec2024 01:07:37.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-14, z=478} BlockPos{x=746, y=-15, z=474}
+[27Dec2024 01:07:38.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-15, z=472} BlockPos{x=746, y=-14, z=472}
+[27Dec2024 01:07:42.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-12, z=469} BlockPos{x=746, y=-12, z=468}
+[27Dec2024 01:07:42.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-12, z=469} BlockPos{x=746, y=-12, z=468}
+[27Dec2024 01:07:43.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=746, y=-12, z=469} BlockPos{x=746, y=-12, z=470}
+[27Dec2024 01:08:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [With Fire It Writes]
+[27Dec2024 01:09:42.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=850, y=-21, z=511} BlockPos{x=850, y=-22, z=512}

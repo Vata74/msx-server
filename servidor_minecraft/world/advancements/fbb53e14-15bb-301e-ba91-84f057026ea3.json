@@ -2045,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-27 00:58:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2024-12-26 02:33:31 +0000"
@@ -3863,6 +3869,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_stairs": {
     "criteria": {
       "has_item": "2024-12-23 00:12:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-27 01:04:33 +0000"
     },
     "done": true
   },
@@ -9153,6 +9165,12 @@
   "stoneworks:recipes/stoneworks.main/basalt_tile_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-27 01:04:33 +0000"
     },
     "done": true
   },

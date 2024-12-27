@@ -3741,6 +3741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 00:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-22 02:36:23 +0000"
@@ -6172,6 +6178,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2024-12-27 00:58:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 05:39:24 +0000"
@@ -8304,6 +8316,12 @@
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2024-12-21 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-27 01:02:22 +0000"
     },
     "done": true
   },

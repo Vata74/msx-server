@@ -419,6 +419,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-27 00:59:13 +0000",
+      "trophy_pedestal": "2024-12-27 01:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
@@ -701,6 +708,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/chocolate_wafer": {
+    "criteria": {
+      "has_maze_wafer": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2024-12-25 05:37:56 +0000"
@@ -884,6 +897,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-26 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -1241,6 +1260,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-27 00:59:13 +0000"
+    },
+    "done": false
+  },
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
@@ -1298,6 +1323,12 @@
   "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2024-12-27 00:59:18 +0000"
     },
     "done": true
   },
@@ -1617,6 +1648,12 @@
   "handcrafted:recipes/misc/white_crockery_combo": {
     "criteria": {
       "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_map": {
+    "criteria": {
+      "has_item": "2024-12-27 01:05:18 +0000"
     },
     "done": true
   },
@@ -1947,6 +1984,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_chest": "2024-12-27 00:59:27 +0000",
       "twilight_oak_log": "2024-12-27 00:30:22 +0000",
       "twilight_oak_sapling": "2024-12-27 00:30:23 +0000",
       "canopy_log": "2024-12-27 00:30:19 +0000",
@@ -2969,6 +3007,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
@@ -3726,6 +3770,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-27 01:05:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
@@ -4126,6 +4176,12 @@
   "stoneworks:recipes/stoneworks.main/chiseled_end_stone_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-25 03:38:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -4624,6 +4680,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_stairs": {
     "criteria": {
       "has_item": "2024-12-22 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-27 01:03:04 +0000"
     },
     "done": true
   },
@@ -6473,13 +6535,20 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-12-27 00:59:13 +0000",
       "kill_naga": "2024-12-27 00:38:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "twigs:recipes/silt/gray_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-27 00:59:55 +0000"
     },
     "done": true
   },
@@ -7782,6 +7851,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-27 01:03:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
@@ -8155,6 +8230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -8224,6 +8305,12 @@
   "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -8689,6 +8776,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
@@ -8776,6 +8869,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-23 20:49:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_cushion": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -9578,6 +9677,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-27 00:59:13 +0000"
+    },
+    "done": false
+  },
   "windswept:recipes/decorations/ice_sheet": {
     "criteria": {
       "has_ice": "2024-12-22 00:01:54 +0000"
@@ -9719,6 +9824,12 @@
   "twilightforest:recipes/twilightforest/nagastone/mossy_etched_nagastone": {
     "criteria": {
       "has_item": "2024-12-27 00:38:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -9929,6 +10040,12 @@
   "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -10203,6 +10320,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_sheet": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:45 +0000"
@@ -10236,6 +10359,12 @@
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_stool": {
+    "criteria": {
+      "has_wool": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
@@ -10564,6 +10693,12 @@
     },
     "done": true
   },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {
       "has_spider_eye": "2024-12-21 04:45:56 +0000"
@@ -10789,6 +10924,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 03:45:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-27 01:03:04 +0000"
     },
     "done": true
   },
@@ -11255,6 +11396,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 01:05:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -11466,6 +11613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "mycelium": "2024-12-22 23:19:00 +0000",
@@ -11478,6 +11631,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-26 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 00:59:17 +0000"
     },
     "done": true
   },
@@ -12047,6 +12206,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-27 01:03:32 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -12611,6 +12776,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-12-27 01:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -12758,6 +12929,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-22 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2024-12-27 01:03:32 +0000"
     },
     "done": true
   },
