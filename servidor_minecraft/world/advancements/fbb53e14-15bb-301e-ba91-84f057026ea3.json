@@ -756,6 +756,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 00:38:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-22 20:52:08 +0000"
@@ -2172,6 +2178,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:38 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/gray_terracotta_slab": {
     "criteria": {
       "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
@@ -2938,6 +2950,12 @@
   "twigs:recipes/tables/bamboo_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-24 19:23:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:39 +0000"
     },
     "done": true
   },
@@ -4000,6 +4018,12 @@
   "stoneworks:recipes/stoneworks.main/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 23:56:02 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/glowstew": {
+    "criteria": {
+      "has_mushgloom": "2024-12-27 00:38:24 +0000"
     },
     "done": true
   },
@@ -5277,6 +5301,12 @@
       "has_diamond": "2024-12-21 23:23:09 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-27 00:38:39 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
@@ -7154,6 +7184,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/mushgloom_sauce": {
+    "criteria": {
+      "has_mushgloom": "2024-12-27 00:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 20:11:23 +0000"
@@ -8153,6 +8189,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-22 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-12-27 00:38:39 +0000"
     },
     "done": true
   },
@@ -9660,6 +9702,12 @@
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:06 +0000"
     },
     "done": true
   },

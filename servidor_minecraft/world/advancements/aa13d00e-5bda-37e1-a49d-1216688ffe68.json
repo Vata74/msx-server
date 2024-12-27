@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 03:45:07 +0000"
@@ -206,6 +212,12 @@
   "woodworks:recipes/building_blocks/warped_boards_from_warped_planks_sawing": {
     "criteria": {
       "has_warped_planks": "2024-12-23 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:51 +0000"
     },
     "done": true
   },
@@ -623,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-21 04:56:53 +0000"
@@ -749,6 +767,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -764,6 +788,18 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2024-12-26 04:27:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-27 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -944,6 +980,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:51 +0000"
     },
     "done": true
   },
@@ -1157,6 +1199,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_cake": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-26 03:30:13 +0000"
@@ -1262,6 +1310,12 @@
   "stoneworks:recipes/stoneworks.main/stone_paver_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -2531,6 +2585,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/light_gray_terracotta_bricks_from_light_gray_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -2558,6 +2618,12 @@
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2024-12-22 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:58 +0000"
     },
     "done": true
   },
@@ -2774,6 +2840,12 @@
   "twilightdelight:recipes/frozen/cutting/ice_bomb": {
     "criteria": {
       "has_blue_ice": "2024-12-22 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -3080,6 +3152,12 @@
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -3462,6 +3540,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:58 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-12-22 03:36:54 +0000"
@@ -3579,6 +3663,12 @@
   "stoneworks:recipes/stoneworks.main/deepslate_shingle_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-12-23 02:47:49 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -4105,6 +4195,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/phytochemical_cake": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 07:09:32 +0000"
@@ -4243,6 +4339,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/phytochemical_ice_cream": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_end_stone_tiles_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-25 03:38:45 +0000"
@@ -4288,6 +4390,12 @@
   "everycomp:recipes/everycomp/db/quark/blossom_support": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -4354,6 +4462,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-12-24 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/steeleaf_knife": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -4696,6 +4810,18 @@
   "stoneworks:recipes/stoneworks.main/deepslate_shingles_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-12-23 02:47:49 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/glowstew": {
+    "criteria": {
+      "has_mushgloom": "2024-12-27 00:38:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -5341,6 +5467,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
@@ -5673,6 +5805,12 @@
     },
     "done": true
   },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 05:27:14 +0000"
@@ -5820,6 +5958,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-12-22 03:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-27 00:44:38 +0000"
     },
     "done": true
   },
@@ -6290,6 +6434,12 @@
       "has_diamond": "2024-12-21 23:03:58 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-27 00:38:39 +0000"
+    },
+    "done": false
   },
   "twigs:recipes/silt/gray_packed_silt_from_silt": {
     "criteria": {
@@ -7134,6 +7284,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/phytochemical_ice_cream_block": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_stem": {
     "criteria": {
       "has_oak_log": "2024-12-21 02:15:12 +0000"
@@ -7422,6 +7578,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/nether_brick_from_baking": {
     "criteria": {
       "has_netherrack": "2024-12-22 23:57:29 +0000"
@@ -7512,6 +7674,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_milkshake_alt": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
     "criteria": {
       "has_jungle_planks": "2024-12-25 05:36:14 +0000"
@@ -7557,6 +7725,12 @@
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2024-12-24 19:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-27 00:44:38 +0000"
     },
     "done": true
   },
@@ -7647,6 +7821,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -8011,6 +8191,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_sandstone_stairs_from_cobbled_sandstone_stonecutting": {
     "criteria": {
       "has_cobbled_sandstone": "2024-12-25 03:39:31 +0000"
@@ -8185,6 +8371,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -8344,6 +8536,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-21 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/mushgloom_sauce": {
+    "criteria": {
+      "has_mushgloom": "2024-12-27 00:38:58 +0000"
     },
     "done": true
   },
@@ -8890,6 +9088,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-26 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/phytochemical_milkshake_alt": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -9470,6 +9674,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
@@ -9497,6 +9707,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-12-26 04:27:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-27 00:38:39 +0000"
     },
     "done": true
   },
@@ -9993,6 +10209,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_sheet": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -10447,6 +10669,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-24 07:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-27 00:44:38 +0000"
     },
     "done": true
   },
@@ -10925,6 +11153,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_stool": {
+    "criteria": {
+      "has_wool": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shelf": {
     "criteria": {
       "has_planks": "2024-12-23 00:05:51 +0000"
@@ -11157,6 +11391,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-25 05:49:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:13 +0000"
     },
     "done": true
   },
@@ -11519,6 +11759,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-27 00:38:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
@@ -11582,6 +11828,12 @@
   "upgradednetherite:recipes/essences/echo_essence": {
     "criteria": {
       "has_ghast_tear": "2024-12-23 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_milkshake": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -11909,6 +12161,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_ice_cream_block": {
+    "criteria": {
+      "has_torchberries": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
@@ -11924,6 +12182,12 @@
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2024-12-25 05:37:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_cushion": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -12275,6 +12539,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/phytochemical_milkshake": {
+    "criteria": {
+      "has_steeleaf_ingot": "2024-12-27 00:43:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
@@ -12362,6 +12632,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-21 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-27 00:36:48 +0000"
     },
     "done": true
   },
@@ -12537,6 +12813,12 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_red_wool": "2024-12-23 05:34:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-12-27 00:43:57 +0000"
     },
     "done": true
   },
@@ -12783,6 +13065,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2024-12-27 00:45:56 +0000"
     },
     "done": true
   },
