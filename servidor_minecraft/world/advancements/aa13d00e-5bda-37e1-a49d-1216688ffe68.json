@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/grilled_ghast": {
+    "criteria": {
+      "has_experiment_115": "2024-12-27 01:23:56 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
@@ -386,6 +392,12 @@
   "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
       "has_cushion": "2024-12-22 04:27:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/material/carminite": {
+    "criteria": {
+      "has_item": "2024-12-27 01:27:52 +0000"
     },
     "done": true
   },
@@ -1434,6 +1446,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/ghast_burger": {
+    "criteria": {
+      "has_experiment_115": "2024-12-27 01:23:56 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/holly_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 05:52:06 +0000"
@@ -1654,6 +1672,12 @@
   "woodworks:recipes/building_blocks/spruce_planks_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 01:10:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/vanishing_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:21:40 +0000"
     },
     "done": true
   },
@@ -1998,9 +2022,14 @@
     "criteria": {
       "twilight_oak_chest": "2024-12-27 00:59:27 +0000",
       "twilight_oak_log": "2024-12-27 00:30:22 +0000",
+      "dark_log": "2024-12-27 01:21:16 +0000",
+      "mossy_towerwood": "2024-12-27 01:26:08 +0000",
       "twilight_oak_sapling": "2024-12-27 00:30:23 +0000",
+      "encased_towerwood": "2024-12-27 01:23:50 +0000",
       "canopy_log": "2024-12-27 00:30:19 +0000",
-      "canopy_sapling": "2024-12-27 00:33:13 +0000"
+      "towerwood": "2024-12-27 01:23:48 +0000",
+      "canopy_sapling": "2024-12-27 00:33:13 +0000",
+      "cracked_towerwood": "2024-12-27 01:26:53 +0000"
     },
     "done": false
   },
@@ -7653,6 +7682,18 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/borer_tear_soup": {
+    "criteria": {
+      "has_borer_essence": "2024-12-27 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/darkwood_wood": {
+    "criteria": {
+      "has_item": "2024-12-27 01:21:16 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
@@ -8384,6 +8425,12 @@
   "everycomp:recipes/everycomp/af/byg/jacaranda_bench": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/darkwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-27 01:21:16 +0000"
     },
     "done": true
   },
@@ -9900,6 +9947,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2024-12-27 01:23:48 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:25:03 +0000"
@@ -10697,6 +10750,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-12-22 03:29:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2024-12-27 01:23:48 +0000"
     },
     "done": true
   },
@@ -11782,6 +11841,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/reappearing_block": {
+    "criteria": {
+      "has_item": "2024-12-27 01:21:40 +0000"
     },
     "done": true
   },
