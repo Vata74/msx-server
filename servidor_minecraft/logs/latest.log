@@ -4072,3 +4072,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 22:46:49.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was shot by Skeleton
 [27Dec2024 23:01:18.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> xaero-waypoint:nascar:N:54:-49:103:2:false:0:Internal-overworld-waypoints
 [27Dec2024 23:02:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was slain by Forgotten
+[27Dec2024 23:15:35.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[27Dec2024 23:15:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[27Dec2024 23:15:35.059] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
