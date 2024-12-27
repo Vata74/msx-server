@@ -122,6 +122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-21 05:40:42 +0000"
@@ -233,6 +239,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:23 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_silver": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -545,6 +557,12 @@
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-21 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -1076,6 +1094,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-27 05:10:42 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_butter_bottle": {
     "criteria": {
       "has_nuts": "2024-12-22 02:05:52 +0000"
@@ -1187,6 +1211,12 @@
   "vinery:jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2024-12-24 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -1598,6 +1628,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/oak_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:54:45 +0000"
@@ -1637,6 +1673,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -1760,6 +1802,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/willow_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:54:45 +0000"
@@ -1832,6 +1880,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/sterling_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_button": {
     "criteria": {
       "has_planks": "2024-12-24 04:14:04 +0000"
@@ -1847,6 +1901,12 @@
   "stoneworks:recipes/stoneworks.main/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-25 04:51:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -2012,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-27 05:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:23 +0000"
@@ -2093,6 +2159,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-21 05:00:27 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:12:08 +0000"
     },
     "done": true
   },
@@ -3074,6 +3146,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
@@ -3179,6 +3257,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -3435,6 +3519,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/sterling_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
@@ -3546,6 +3636,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_sheet": "2024-12-21 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:12:08 +0000"
     },
     "done": true
   },
@@ -3666,6 +3762,12 @@
   "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
       "wanderer_boots": "2024-12-24 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -3838,6 +3940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-27 05:10:42 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2024-12-21 04:43:26 +0000"
@@ -3904,6 +4012,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:10 +0000"
@@ -3949,6 +4063,12 @@
   "woodworks:recipes/building_blocks/spruce_boards": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -3998,6 +4118,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-22 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-27 05:12:08 +0000"
     },
     "done": true
   },
@@ -4608,6 +4734,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/crimson_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_door": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 04:43:26 +0000"
@@ -4687,6 +4819,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-12-27 04:59:15 +0000"
@@ -4714,6 +4852,18 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -4816,6 +4966,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -5197,6 +5353,12 @@
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -5717,6 +5879,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -5762,6 +5930,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2024-12-25 05:37:47 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/glass_from_baking": {
+    "criteria": {
+      "has_sand": "2024-12-27 05:10:42 +0000"
     },
     "done": true
   },
@@ -6073,6 +6247,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/wisteria_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-22 02:09:55 +0000"
@@ -6106,6 +6286,12 @@
   "nethersdelight:recipes/nethersdelight/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2024-12-25 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-27 05:10:30 +0000"
     },
     "done": true
   },
@@ -6355,6 +6541,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 05:18:05 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_sign_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-21 05:19:48 +0000"
@@ -6484,6 +6676,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-27 05:18:05 +0000"
     },
     "done": true
   },
@@ -6664,6 +6862,12 @@
   "stoneworks:recipes/stoneworks.main/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2024-12-27 05:10:42 +0000"
     },
     "done": true
   },
