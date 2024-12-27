@@ -4066,3 +4066,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 06:17:02.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
 [27Dec2024 06:17:02.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
 [27Dec2024 06:17:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Weed Wacker]
+[27Dec2024 06:21:39.790] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[27Dec2024 06:21:39.791] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[27Dec2024 06:21:39.792] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[27Dec2024 06:21:39.792] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[27Dec2024 06:21:39.792] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[27Dec2024 06:21:39.793] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[27Dec2024 06:21:39.793] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[27Dec2024 06:21:39.794] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[27Dec2024 06:23:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [The Silence of the Forest]
+[27Dec2024 06:25:50.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7589b201
