@@ -4334,3 +4334,17 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 03:03:47.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165224, l='ServerLevel[world]', x=-179.50, y=79.00, z=-2962.50]
 [27Dec2024 03:04:49.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165384, l='ServerLevel[world]', x=-182.50, y=77.00, z=-2977.50]
 [27Dec2024 03:05:40.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/165557, l='ServerLevel[world]', x=-181.50, y=71.00, z=-3003.50]
+[27Dec2024 03:07:36.165] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36b6517
+[27Dec2024 03:07:36.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.175.169.123:43783] logged in with entity id 166355 at (344.7698847632715, 81.0, -255.67856489968653)
+[27Dec2024 03:07:36.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[27Dec2024 03:07:36.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[27Dec2024 03:07:36.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[27Dec2024 03:07:36.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[27Dec2024 03:07:36.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[27Dec2024 03:07:36.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[27Dec2024 03:07:36.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[27Dec2024 03:07:36.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[27Dec2024 03:07:36.258] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 03:07:36.261] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 03:08:11.637] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/166698, l='ServerLevel[world]', x=46.50, y=40.00, z=-2564.50]
+[27Dec2024 03:17:07.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
