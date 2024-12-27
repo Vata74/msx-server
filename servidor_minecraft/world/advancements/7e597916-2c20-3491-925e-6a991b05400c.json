@@ -952,6 +952,7 @@
       "minecraft:skeleton": "2024-12-23 03:30:10 +0000",
       "minecraft:spider": "2024-12-26 02:29:54 +0000",
       "minecraft:creeper": "2024-12-23 05:09:49 +0000",
+      "minecraft:phantom": "2024-12-27 02:51:03 +0000",
       "minecraft:zombie": "2024-12-26 02:50:16 +0000"
     },
     "done": false
@@ -2134,6 +2135,12 @@
     },
     "done": false
   },
+  "upgradednetherite:recipes/essences/phantom_essence": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-27 02:51:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_cushion": "2024-12-23 04:19:51 +0000"
@@ -3076,6 +3083,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-27 02:51:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-22 04:10:25 +0000"
@@ -3842,6 +3855,12 @@
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-27 02:51:04 +0000"
     },
     "done": true
   },

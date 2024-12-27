@@ -4308,3 +4308,7 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 02:31:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> asd
 [27Dec2024 02:35:50.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> #nasi
 [27Dec2024 02:44:15.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [The Parrots and the Bats]
+[27Dec2024 02:49:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was doomed to fall by Phantom
+[27Dec2024 02:52:45.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[27Dec2024 02:52:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[27Dec2024 02:52:45.592] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
