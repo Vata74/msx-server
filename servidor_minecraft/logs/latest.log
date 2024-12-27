@@ -4348,3 +4348,6 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 03:07:36.261] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
 [27Dec2024 03:08:11.637] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/166698, l='ServerLevel[world]', x=46.50, y=40.00, z=-2564.50]
 [27Dec2024 03:17:07.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[27Dec2024 03:21:14.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maggie_ lost connection: Disconnected
+[27Dec2024 03:21:14.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ left the game
+[27Dec2024 03:21:14.900] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e597916-2c20-3491-925e-6a991b05400c

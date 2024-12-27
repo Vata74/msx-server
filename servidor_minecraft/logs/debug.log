@@ -19513,3 +19513,22 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 03:17:07.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 03:17:07.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [27Dec2024 03:17:23.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[27Dec2024 03:17:31.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 03:20:51.281] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 03:20:51.281] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 03:21:14.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maggie_ lost connection: Disconnected
+[27Dec2024 03:21:14.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ left the game
+[27Dec2024 03:21:14.900] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e597916-2c20-3491-925e-6a991b05400c
+[27Dec2024 03:22:07.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:22:07.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:23:13.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[27Dec2024 03:24:11.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 03:24:44.539] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/177168, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3266.50, removed=DISCARDED].
+[27Dec2024 03:24:45.537] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/177214, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3264.50, removed=DISCARDED].
+[27Dec2024 03:27:07.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 03:27:07.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 03:27:31.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 03:27:41.935] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/179474, l='ServerLevel[world]', x=-1029.50, y=221.00, z=3265.50, removed=DISCARDED].
+[27Dec2024 03:27:42.936] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/179512, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[27Dec2024 03:27:44.936] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/179583, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3265.50, removed=DISCARDED].
+[27Dec2024 03:27:45.937] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/179627, l='ServerLevel[world]', x=-1031.50, y=221.00, z=3266.50, removed=DISCARDED].
