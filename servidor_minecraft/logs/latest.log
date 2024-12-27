@@ -4069,3 +4069,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 22:27:25.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
 [27Dec2024 22:27:25.888] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
 [27Dec2024 22:27:25.894] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[27Dec2024 22:46:49.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was shot by Skeleton
