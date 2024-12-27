@@ -16283,3 +16283,65 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 00:49:57.622] [Server thread/DEBUG] [FTB Teams/]: team login event for aa13d00e-5bda-37e1-a49d-1216688ffe68 sent
 [27Dec2024 00:49:57.625] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [27Dec2024 00:49:57.629] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 00:50:20.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1037, y=-4, z=1050} BlockPos{x=1037, y=-3, z=1050}
+[27Dec2024 00:50:20.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1033, y=-2, z=1048} BlockPos{x=1033, y=-2, z=1049}
+[27Dec2024 00:50:21.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1035, y=-3, z=1050} BlockPos{x=1035, y=-2, z=1050}
+[27Dec2024 00:50:50.618] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 00:50:50.618] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 00:50:57.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:50:57.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:52:51.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has completed the challenge [Free Willy]
+[27Dec2024 00:52:58.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=31, z=793} BlockPos{x=973, y=30, z=792}
+[27Dec2024 00:54:10.881] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 00:54:33.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=995, y=64, z=789} BlockPos{x=995, y=63, z=789}
+[27Dec2024 00:55:19.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=975, y=57, z=792} BlockPos{x=976, y=58, z=792}
+[27Dec2024 00:55:19.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=975, y=57, z=792} BlockPos{x=975, y=58, z=793}
+[27Dec2024 00:55:33.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Bring Out Your Dead]
+[27Dec2024 00:55:46.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/quest_tower
+[27Dec2024 00:55:46.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[27Dec2024 00:55:46.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[27Dec2024 00:55:52.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=970, y=59, z=801} BlockPos{x=970, y=58, z=801}
+[27Dec2024 00:55:52.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[27Dec2024 00:55:52.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=970, y=54, z=801} BlockPos{x=970, y=53, z=801}
+[27Dec2024 00:55:57.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:55:57.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:56:34.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[27Dec2024 00:56:34.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[27Dec2024 00:56:36.576] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[27Dec2024 00:56:36.576] [Server thread/DEBUG] [mixin/]: guardvillagers.mixins.json:VillagerGoalPackagesMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Dec2024 00:56:36.579] [Server thread/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[27Dec2024 00:56:36.586] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[27Dec2024 00:56:36.586] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Dec2024 00:56:36.586] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$e3b449$0 in kiwi.mixins.json:WorkAtComposterAccess
+[27Dec2024 00:56:36.586] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$e3b449$1 in kiwi.mixins.json:WorkAtComposterAccess
+[27Dec2024 00:56:36.589] [Server thread/DEBUG] [mixin/]: Mixing FarmTaskMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[27Dec2024 00:56:36.590] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$tick$0(Ljava/util/List;Ljava/util/Map$Entry;)V to mde3b449$lambda$tick$0$0 in smarterfarmers-common.mixins.json:FarmTaskMixin
+[27Dec2024 00:56:36.595] [Server thread/DEBUG] [mixin/]: Mixing HarvestFarmlandMixin from quark.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[27Dec2024 00:56:36.607] [Server thread/DEBUG] [mixin/]: Mixing UseBonemealMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.UseBonemeal
+[27Dec2024 00:56:36.611] [Server thread/DEBUG] [mixin/]: Mixing StayNearPointTaskMixin from blue_skies.mixins.json into net.minecraft.world.entity.ai.behavior.SetWalkTargetFromBlockMemory
+[27Dec2024 00:56:36.627] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.entity.ai.behavior.CelebrateVillagersSurvivedRaidMixin from redirector.mixins.json into net.minecraft.world.entity.ai.behavior.CelebrateVillagersSurvivedRaid
+[27Dec2024 00:57:12.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/81137, l='ServerLevel[world]', x=-783.50, y=50.00, z=-3628.50]
+[27Dec2024 00:57:30.831] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 00:57:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was slain by Skelewag
+[27Dec2024 00:57:48.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/mountain/main
+[27Dec2024 00:57:48.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/mountain/back_1
+[27Dec2024 00:57:48.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/mountain/side_2
+[27Dec2024 00:57:48.266] [Server thread/DEBUG] [twilightforest/]: Player Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed) respawned and received items held in storage
+[27Dec2024 00:57:48.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[27Dec2024 00:57:49.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[27Dec2024 00:57:49.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[27Dec2024 00:57:49.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[27Dec2024 00:58:52.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[27Dec2024 00:59:13.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Bring Out Your Dead]
+[27Dec2024 00:59:29.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:33.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[27Dec2024 00:59:33.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[27Dec2024 00:59:51.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[27Dec2024 01:00:01.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=56, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:20.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=7, z=1035} BlockPos{x=793, y=7, z=1035}

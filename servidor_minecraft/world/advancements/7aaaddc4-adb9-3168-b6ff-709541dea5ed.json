@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_pavers_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-21 02:11:40 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_warped_garden": {
     "criteria": {
       "in_structure": "2024-12-23 00:15:42 +0000"
@@ -500,6 +512,12 @@
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -599,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2024-12-26 20:54:09 +0000"
@@ -614,6 +638,12 @@
   "everycomp:recipes/everycomp/af/abundant_atmosphere/ash_chair": {
     "criteria": {
       "has_planks": "2024-12-21 23:29:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_tile_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -698,6 +728,12 @@
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_bench": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -1116,6 +1152,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-27 00:52:51 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-26 20:54:09 +0000"
@@ -1299,6 +1341,12 @@
   "byg:recipes/byg.byg/embur_door": {
     "criteria": {
       "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 00:51:08 +0000"
     },
     "done": true
   },
@@ -1524,6 +1572,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_tile_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-23 06:12:14 +0000"
@@ -1743,6 +1797,12 @@
   "environmental:recipes/food/cooked_venison_from_smoking": {
     "criteria": {
       "has_venison": "2024-12-26 03:26:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/chiseled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -2166,6 +2226,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_tiles_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/byg/skyris_table": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
@@ -2382,6 +2448,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
@@ -2559,6 +2631,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-21 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -3163,6 +3241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
@@ -3331,6 +3415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:13 +0000"
@@ -3459,6 +3549,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/quark/blossom_palisade": {
     "criteria": {
       "has_planks": "2024-12-23 02:05:59 +0000"
@@ -3579,6 +3675,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2024-12-26 21:10:39 +0000"
@@ -3618,6 +3720,12 @@
   "rottencreatures:recipes/rottencreatures.rottencreatures/corrupted_wart": {
     "criteria": {
       "has_frozen_rotten_flesh": "2024-12-22 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_plates_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -3747,9 +3855,21 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/lime_dye_from_baking": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-27 00:54:36 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/chiseled_brown_terracotta_bricks_from_brown_terracotta_stonecutting": {
     "criteria": {
       "has_brown_terracotta": "2024-12-21 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -3816,6 +3936,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 00:51:08 +0000"
     },
     "done": true
   },
@@ -4149,6 +4275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-27 00:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-21 05:39:24 +0000"
@@ -4188,6 +4320,12 @@
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-27 00:52:58 +0000"
     },
     "done": true
   },
@@ -4659,6 +4797,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cracked_prismarine_tiles_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2024-12-22 01:51:08 +0000"
@@ -4686,6 +4830,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -5065,6 +5215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cika_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
@@ -5182,6 +5338,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_paver_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -6058,6 +6220,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_plate_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/sterling_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-21 04:05:18 +0000"
@@ -6319,6 +6487,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-27 00:54:36 +0000"
     },
     "done": true
   },
@@ -6796,6 +6970,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tw/quark/blossom_table": {
     "criteria": {
       "has_planks": "2024-12-23 02:05:59 +0000"
@@ -6829,6 +7009,12 @@
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_sheet": "2024-12-21 04:48:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_paver_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -6902,6 +7088,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -7242,6 +7434,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_shingle_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
@@ -7569,6 +7767,12 @@
   "byg:recipes/byg.byg/skyris_bookshelf": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_tile_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -8325,6 +8529,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 02:15:40 +0000"
@@ -8403,9 +8613,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/gray_terracotta_bricks_from_gray_terracotta_stonecutting": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-27 00:52:32 +0000"
     },
     "done": true
   },
@@ -8686,6 +8908,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-21 04:40:19 +0000"
@@ -8707,6 +8935,12 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2024-12-26 03:38:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -8798,6 +9032,12 @@
   "clayworks:recipes/building_blocks/gray_terracotta_brick_vertical_slab_from_gray_terracotta_stonecutting": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_pillar_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -9035,6 +9275,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-21 05:39:20 +0000"
@@ -9176,6 +9422,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-27 00:51:25 +0000"
     },
     "done": true
   },
@@ -9662,6 +9914,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/water_essence": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-27 00:51:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:38:36 +0000"
@@ -9774,6 +10032,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_plate_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -10063,6 +10327,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2024-12-21 02:54:13 +0000"
@@ -10078,6 +10348,12 @@
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-12-22 06:44:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_plate_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -10231,6 +10507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
     "criteria": {
       "has_planks": "2024-12-26 03:06:38 +0000"
@@ -10252,6 +10534,12 @@
   "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-21 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -10531,6 +10819,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/decorations/anvil_compat": {
     "criteria": {
       "has_item": "2024-12-21 04:35:36 +0000"
@@ -10756,6 +11050,12 @@
   "blue_skies:recipes/blue_skies_blocks/tool_box": {
     "criteria": {
       "has_item": "2024-12-21 04:35:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/prismarine_paver_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },
@@ -11005,6 +11305,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_trophy": "2024-12-26 02:39:02 +0000"
@@ -11152,6 +11458,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-23 21:11:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-27 00:51:23 +0000"
     },
     "done": true
   },

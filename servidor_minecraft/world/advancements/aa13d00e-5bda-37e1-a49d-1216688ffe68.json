@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "vinery:loam": {
+    "criteria": {
+      "has_clay_ball": "2024-12-27 00:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-21 04:54:57 +0000"
@@ -1190,6 +1196,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 00:52:49 +0000"
     },
     "done": true
   },
@@ -3468,6 +3480,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-12-27 00:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
@@ -4291,6 +4309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-27 00:52:15 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/decorations/chicken_egg_crate": {
     "criteria": {
       "has_egg": "2024-12-26 03:15:59 +0000"
@@ -4858,6 +4882,12 @@
   "everycomp:recipes/everycomp/af/quark/blossom_bench": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 00:52:49 +0000"
     },
     "done": true
   },
@@ -6051,6 +6081,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/brick_from_baking": {
+    "criteria": {
+      "has_clay_ball": "2024-12-27 00:52:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -6693,6 +6729,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-27 00:54:45 +0000"
     },
     "done": true
   },
@@ -10083,6 +10125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-27 00:52:15 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/red_terracotta_bricks_from_red_terracotta_stonecutting": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
@@ -10212,6 +10260,12 @@
   "handcrafted:recipes/misc/brown_sheet": {
     "criteria": {
       "has_sheet": "2024-12-27 00:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-27 00:54:31 +0000"
     },
     "done": true
   },
@@ -10375,6 +10429,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_sandstone_wall_from_cobbled_sandstone_stonecutting": {
     "criteria": {
       "has_cobbled_sandstone": "2024-12-25 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 00:52:49 +0000"
     },
     "done": true
   },
@@ -11243,6 +11303,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-27 00:54:45 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/white_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:36:44 +0000"
@@ -11661,6 +11727,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-27 00:54:45 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/faf/byg/jacaranda_beehive": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -12005,6 +12077,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-27 00:54:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-12-21 04:43:14 +0000"
@@ -12044,6 +12122,12 @@
   "woodworks:recipes/building_blocks/birch_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_painting": "2024-12-27 00:53:20 +0000"
     },
     "done": true
   },

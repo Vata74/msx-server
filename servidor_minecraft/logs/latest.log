@@ -4060,3 +4060,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 00:49:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
 [27Dec2024 00:49:57.625] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [27Dec2024 00:49:57.629] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 00:50:20.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1037, y=-4, z=1050} BlockPos{x=1037, y=-3, z=1050}
+[27Dec2024 00:50:20.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1033, y=-2, z=1048} BlockPos{x=1033, y=-2, z=1049}
+[27Dec2024 00:50:21.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1035, y=-3, z=1050} BlockPos{x=1035, y=-2, z=1050}
+[27Dec2024 00:52:51.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has completed the challenge [Free Willy]
+[27Dec2024 00:52:58.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=31, z=793} BlockPos{x=973, y=30, z=792}
+[27Dec2024 00:54:33.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=995, y=64, z=789} BlockPos{x=995, y=63, z=789}
+[27Dec2024 00:55:19.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=975, y=57, z=792} BlockPos{x=976, y=58, z=792}
+[27Dec2024 00:55:19.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=975, y=57, z=792} BlockPos{x=975, y=58, z=793}
+[27Dec2024 00:55:33.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Bring Out Your Dead]
+[27Dec2024 00:55:52.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=970, y=59, z=801} BlockPos{x=970, y=58, z=801}
+[27Dec2024 00:55:52.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=970, y=54, z=801} BlockPos{x=970, y=53, z=801}
+[27Dec2024 00:57:12.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/81137, l='ServerLevel[world]', x=-783.50, y=50.00, z=-3628.50]
+[27Dec2024 00:57:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was slain by Skelewag
+[27Dec2024 00:59:13.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Bring Out Your Dead]
+[27Dec2024 00:59:29.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 00:59:29.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=54, z=1037} BlockPos{x=805, y=54, z=1038}
+[27Dec2024 01:00:01.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=57, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:01.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=801, y=56, z=1030} BlockPos{x=799, y=57, z=1030}
+[27Dec2024 01:00:20.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=7, z=1035} BlockPos{x=793, y=7, z=1035}
