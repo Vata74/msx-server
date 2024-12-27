@@ -1453,6 +1453,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_map": {
+    "criteria": {
+      "has_item": "2024-12-27 01:45:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 23:50:17 +0000"
@@ -2946,6 +2952,12 @@
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 01:48:28 +0000"
     },
     "done": true
   },
@@ -4615,6 +4627,12 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2024-12-21 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/uncrafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 01:50:38 +0000"
     },
     "done": true
   },
@@ -10548,6 +10566,12 @@
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2024-12-24 21:56:40 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 01:48:28 +0000"
     },
     "done": true
   },

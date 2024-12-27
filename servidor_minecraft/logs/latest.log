@@ -4250,3 +4250,25 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 01:41:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ joined the game
 [27Dec2024 01:41:32.728] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e597916-2c20-3491-925e-6a991b05400c
 [27Dec2024 01:41:32.746] [Server thread/INFO] [Jade/]: Syncing config to maggie_ (7e597916-2c20-3491-925e-6a991b05400c)
+[27Dec2024 01:46:19.970] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5165eaa4
+[27Dec2024 01:46:19.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.175.169.123:35391] logged in with entity id 121287 at (495.69999998807907, 188.0, 538.512720525119)
+[27Dec2024 01:46:19.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[27Dec2024 01:46:19.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[27Dec2024 01:46:19.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[27Dec2024 01:46:19.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[27Dec2024 01:46:19.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[27Dec2024 01:46:19.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[27Dec2024 01:46:19.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[27Dec2024 01:46:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[27Dec2024 01:46:20.037] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 01:46:20.041] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[27Dec2024 01:48:54.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Something Strange in Towerwood]
+[27Dec2024 01:49:14.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:49:18.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:49:20.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:49:47.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 01:53:25.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[27Dec2024 01:53:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[27Dec2024 01:53:25.410] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[27Dec2024 01:54:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Tears of Fire]
+[27Dec2024 01:55:29.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
