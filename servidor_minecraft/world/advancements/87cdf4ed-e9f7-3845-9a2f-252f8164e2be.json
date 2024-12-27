@@ -212,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-27 06:16:59 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/cloudcap_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:11 +0000"
@@ -650,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-27 06:16:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-27 05:53:52 +0000"
@@ -1037,6 +1049,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-21 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2024-12-27 06:17:07 +0000"
     },
     "done": true
   },
@@ -2077,6 +2095,12 @@
       "has_birch_planks": "2024-12-26 04:53:42 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2024-12-27 06:20:15 +0000"
+    },
+    "done": false
   },
   "delightful:recipes/food/cooking/nut_milk": {
     "criteria": {
@@ -5207,6 +5231,12 @@
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-27 06:16:59 +0000"
     },
     "done": true
   },

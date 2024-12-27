@@ -16286,3 +16286,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 06:05:57.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 06:05:57.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 06:07:32.447] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 06:10:52.397] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 06:10:52.397] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 06:10:57.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 06:10:57.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 06:14:12.547] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 06:15:57.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 06:15:57.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 06:16:53.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:53.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:53.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:54.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=597, y=73, z=-301} BlockPos{x=598, y=71, z=-302}
+[27Dec2024 06:17:02.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=573, y=73, z=-300} BlockPos{x=572, y=71, z=-300}
+[27Dec2024 06:17:02.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
+[27Dec2024 06:17:02.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
+[27Dec2024 06:17:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Weed Wacker]
+[27Dec2024 06:17:32.497] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 06:19:18.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27Dec2024 06:19:18.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27Dec2024 06:20:11.387] [Worker-Main-98/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 06:20:11.390] [Worker-Main-98/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 06:20:11.396] [Worker-Main-98/DEBUG] [mixin/]: Mixing BeardifierMixin_Mansion from biomemakeover-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 06:20:11.436] [Worker-Main-98/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[27Dec2024 06:20:11.437] [Worker-Main-98/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[27Dec2024 06:20:11.438] [Worker-Main-98/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to mdf499fa$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[27Dec2024 06:20:39.756] [Worker-Main-97/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/stone_circle
+[27Dec2024 06:20:52.447] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 06:20:52.447] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 06:20:53.759] [Worker-Main-99/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_doubledeck
+[27Dec2024 06:20:57.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 06:20:57.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 06:20:59.467] [Worker-Main-98/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/grove_pillar

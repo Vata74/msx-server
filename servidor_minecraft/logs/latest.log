@@ -4058,3 +4058,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 05:48:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
 [27Dec2024 05:48:07.938] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
 [27Dec2024 05:48:07.947] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[27Dec2024 06:16:53.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:53.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:53.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=73, z=-300} BlockPos{x=594, y=71, z=-301}
+[27Dec2024 06:16:54.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=597, y=73, z=-301} BlockPos{x=598, y=71, z=-302}
+[27Dec2024 06:17:02.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=573, y=73, z=-300} BlockPos{x=572, y=71, z=-300}
+[27Dec2024 06:17:02.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
+[27Dec2024 06:17:02.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=71, z=-302} BlockPos{x=571, y=70, z=-304}
+[27Dec2024 06:17:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Weed Wacker]
