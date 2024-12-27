@@ -2790,6 +2790,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-27 04:23:23 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/food/scrambled_eggs": {
     "criteria": {
       "has_eggs": "2024-12-21 02:17:37 +0000"
@@ -5001,6 +5007,12 @@
   "galosphere:recipes/galosphere/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2024-12-22 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-27 04:23:23 +0000"
     },
     "done": true
   },

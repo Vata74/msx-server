@@ -4365,6 +4365,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-27 04:21:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_block": {
     "criteria": {
       "has_allurite_shard": "2024-12-22 04:43:01 +0000"

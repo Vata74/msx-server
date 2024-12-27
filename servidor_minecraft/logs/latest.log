@@ -4393,3 +4393,11 @@ java.lang.ClassCastException: class net.minecraft.world.level.block.AirBlock can
 [27Dec2024 04:09:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> gracias x el tuto
 [27Dec2024 04:09:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> de nada reina
 [27Dec2024 04:10:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> a la mier
+[27Dec2024 04:21:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Enchanter]
+[27Dec2024 04:24:53.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[27Dec2024 04:24:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[27Dec2024 04:24:53.496] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[27Dec2024 04:33:18.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[27Dec2024 04:33:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[27Dec2024 04:33:37.056] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[27Dec2024 04:33:37.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
