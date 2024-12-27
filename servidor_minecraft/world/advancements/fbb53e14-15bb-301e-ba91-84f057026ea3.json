@@ -9633,6 +9633,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
@@ -10852,6 +10858,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:15 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_fence_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-12-23 00:37:27 +0000"
@@ -11089,6 +11101,12 @@
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/twilight_spring": {
+    "criteria": {
+      "has_raw_ironwood": "2024-12-27 00:30:15 +0000"
     },
     "done": true
   },

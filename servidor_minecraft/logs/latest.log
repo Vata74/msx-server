@@ -4023,3 +4023,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 00:23:12.859] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
 [27Dec2024 00:23:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> aleho
 [27Dec2024 00:28:02.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[27Dec2024 00:30:56.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [I Can See Forever]
+[27Dec2024 00:31:55.800] [Server thread/ERROR] [xaero.pac.OpenPartiesAndClaims/]: Block/entity resource drop owner capture isn't working properly. Likely a compatibility issue. Turning it off...
+[27Dec2024 00:33:01.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=744, y=-3, z=-274} BlockPos{x=744, y=0, z=-269}
+[27Dec2024 00:33:01.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=744, y=-3, z=-274} BlockPos{x=744, y=0, z=-270}
+[27Dec2024 00:38:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Time To Even The Scales]
+[27Dec2024 00:38:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Time To Even The Scales]

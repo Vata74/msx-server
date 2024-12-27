@@ -2,9 +2,7 @@
 	id: "fbb53e14-15bb-301e-ba91-84f057026ea3"
 	type: "player"
 	player_name: "Nefario99"
-	ranks: {
-		fbb53e14-15bb-301e-ba91-84f057026ea3: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Nefario99"
 		"ftbteams:description": ""

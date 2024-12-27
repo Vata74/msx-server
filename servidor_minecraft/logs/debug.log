@@ -15586,3 +15586,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [27Dec2024 00:28:02.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
 [27Dec2024 00:28:35.611] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_sideways
 [27Dec2024 00:28:35.680] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_study_trap
+[27Dec2024 00:30:50.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[27Dec2024 00:30:50.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[27Dec2024 00:30:56.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [I Can See Forever]
+[27Dec2024 00:30:56.203] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[27Dec2024 00:30:57.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:30:57.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:31:30.089] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.level.levelgen.blending.BlendingDataMixin from redirector.mixins.json into net.minecraft.world.level.levelgen.blending.BlendingData
+[27Dec2024 00:31:33.239] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_doubledeck
+[27Dec2024 00:31:33.256] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_shelves
+[27Dec2024 00:31:38.372] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_study
+[27Dec2024 00:31:40.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/druid_hut
+[27Dec2024 00:31:55.800] [Server thread/ERROR] [xaero.pac.OpenPartiesAndClaims/]: Block/entity resource drop owner capture isn't working properly. Likely a compatibility issue. Turning it off...
+[27Dec2024 00:33:01.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=744, y=-3, z=-274} BlockPos{x=744, y=0, z=-269}
+[27Dec2024 00:33:01.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=744, y=-3, z=-274} BlockPos{x=744, y=0, z=-270}
+[27Dec2024 00:34:10.781] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[27Dec2024 00:35:57.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:35:57.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:36:05.183] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/well/fancy_well_top
+[27Dec2024 00:36:05.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/well/fancy_well_bottom
+[27Dec2024 00:36:22.133] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_corner
+[27Dec2024 00:36:22.134] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_corner_big
+[27Dec2024 00:36:22.134] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_between
+[27Dec2024 00:36:22.135] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_between_big
+[27Dec2024 00:36:22.135] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line
+[27Dec2024 00:36:22.136] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line_big
+[27Dec2024 00:36:22.136] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end
+[27Dec2024 00:36:22.137] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_big
+[27Dec2024 00:36:22.137] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_pillar
+[27Dec2024 00:36:22.138] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_end_pillar_big
+[27Dec2024 00:37:30.754] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[27Dec2024 00:38:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Time To Even The Scales]
+[27Dec2024 00:38:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Time To Even The Scales]
+[27Dec2024 00:39:45.511] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/druid_hut/basement_shelves_trap

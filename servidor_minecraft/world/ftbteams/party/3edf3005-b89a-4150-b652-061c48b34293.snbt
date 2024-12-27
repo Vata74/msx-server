@@ -1,0 +1,22 @@
+{
+	id: "3edf3005-b89a-4150-b652-061c48b34293"
+	type: "party"
+	owner: "aa13d00e-5bda-37e1-a49d-1216688ffe68"
+	ranks: {
+		fbb53e14-15bb-301e-ba91-84f057026ea3: "member"
+		aa13d00e-5bda-37e1-a49d-1216688ffe68: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Alianza"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735259624821L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Vata74\"}]}" }
+		{ from: "aa13d00e-5bda-37e1-a49d-1216688ffe68", date: 1735259632319L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nefario99\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735259636300L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nefario99\"}]}" }
+	]
+	extra: { }
+}

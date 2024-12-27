@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-27 00:30:56 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
     "criteria": {
       "has_item": "2024-12-23 05:33:29 +0000"
@@ -1873,6 +1879,15 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-27 00:30:22 +0000",
+      "twilight_oak_sapling": "2024-12-27 00:30:23 +0000",
+      "canopy_log": "2024-12-27 00:30:19 +0000",
+      "canopy_sapling": "2024-12-27 00:33:13 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/stoneworks.main/end_stone_plate_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-25 03:38:45 +0000"
@@ -2651,6 +2666,12 @@
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2024-12-21 04:42:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:19 +0000"
     },
     "done": true
   },
@@ -3714,6 +3735,12 @@
   "ecologics:recipes/ecologics/snow_bricks": {
     "criteria": {
       "has_snow_block": "2024-12-23 03:48:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:22 +0000"
     },
     "done": true
   },
@@ -4897,6 +4924,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:22 +0000"
     },
     "done": true
   },
@@ -6270,6 +6303,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2024-12-27 00:30:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -6992,6 +7031,12 @@
       "has_blackstone": "2024-12-25 03:45:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2024-12-27 00:29:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
@@ -11073,6 +11118,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-27 00:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -11978,6 +12029,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-12-27 00:35:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
@@ -12320,6 +12377,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-27 00:29:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -12612,6 +12675,12 @@
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/twilight_spring": {
+    "criteria": {
+      "has_raw_ironwood": "2024-12-27 00:29:49 +0000"
     },
     "done": true
   },
